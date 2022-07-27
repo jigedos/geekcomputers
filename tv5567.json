@@ -1,15 +1,7 @@
 
 {
     "sites": [     
-        {
-            "key": "csp_77",
-            "name": "七七(爬虫)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+       {"key":"293视频","name":"🅰️293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
         {
             "key":"csp_CZSPP",
             "name": "厂长(爬虫)",
