@@ -1,9 +1,12 @@
 {
-// spider
-"spider":"https://shuyuan.miaogongzi.net/shuyuan/1658535854.txt",
-// 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
-
+	"spider": "http://fcys.xyz/nz/pc/custom_spider.jar",
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "live",
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]
+		}]
+	}],
 "sites":[
 {"key":"293视频","name":"🅰️293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_77"   ,"name":"🅰️🅰️酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
