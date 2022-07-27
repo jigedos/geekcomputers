@@ -27,6 +27,15 @@
 {"key":"csp_Blidw"         ,"name":"🅰️🅰️🅰️动物世界","type":3,"api":"csp_Blidw","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"csp_xml___200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_斗鱼","name":"🐟斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/biubiu/斗鱼.json"},
+    {
+            "key": "精工厂", 
+            "name": "pandora", 
+            "type": 0, 
+            "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0
+        }, 
     {"key":"csp_biubiu_OmoFun动漫","name":"🅰️OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/OmoFun动漫.json"}
 
 
