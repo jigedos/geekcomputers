@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitea.com/boxlive/showbox/raw/branch/main/jar/904886.jar",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/904886.jar",
   "lives": [
     {
       "group": "redirect",
@@ -7,7 +7,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy96YnkvbWFpbi9zaG93Ym94djgyOC50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy96YnkvbWFpbi9zaG93Ym94ODI4LnR4dA=="
           ]
         }
       ]
@@ -125,7 +125,6 @@
       "quickSearch": 1,
       "searchable": 1
     },
-  
     {
       "key": "csp_XYQBiu_凌云视频韩国",
       "name": "影视09｜凌云韩国　",
@@ -134,8 +133,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gitea.com/boxlive/box/raw/branch/main/qxb/sq.jar",
-      "ext": "https://gitea.com/boxlive/box/raw/branch/main/qxb/凌云视频韩国.json"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/sq.jar",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/凌云视频韩国.json"
     },
     {
       "key": "csp_biubiu_COKEMV",
@@ -145,7 +144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/boxlive/showbox/raw/branch/main/json/COKEMV.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/COKEMV.json"
     },
     {
       "key": "csp_biubiu_555电影",
@@ -155,10 +154,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/boxlive/showbox/raw/branch/main/json/555电影.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/555电影.json"
     },
-    
-      {
+    {
       "key": "mjxq_spider",
       "name": "影视12｜美剧星球　",
       "type": 3,
@@ -167,8 +165,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-  
     {
       "key": "csp_Bili",
       "name": "影视13｜哔哩套餐　",
@@ -177,7 +173,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/哔哩哔哩.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/哔哩哔哩.json"
     },
     {
       "key": "csp_appysv2_群鑫影视〔APP〕",
@@ -197,10 +193,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gitea.com/boxlive/box/raw/branch/main/qxb/sq.jar",
-      "ext": "https://gitea.com/boxlive/box/raw/branch/main/qxb/凌云视频国内.json"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/sq.jar",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/凌云视频国内.json"
     },
-    
     {
       "key": "csp_CZSPP",
       "name": "影视️16｜厂长资源　",
@@ -210,7 +205,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        {
+    {
       "key": "mtv_pc_快看影视",
       "name": "影视17｜快看影视　",
       "type": 3,
@@ -254,10 +249,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/boxlive/box/raw/branch/main/qxb/影视工厂.json",
-      "jar": "https://gitea.com/boxlive/box/raw/branch/main/qxb/XYQBiu_0828.jar"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/影视工厂.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XYQBiu_0828.jar"
     },
-
     {
       "key": "csp_77",
       "name": "影视22｜酷云七七　",
@@ -275,7 +269,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/boxlive/box/raw/branch/main/qxb/Alist.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Alist.json"
     },
     {
       "key": "csp_Alist1",
@@ -288,8 +282,7 @@
       "ext": "米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com",
       "jar": "https://gitea.com/suanjin/tv/raw/branch/master/JAR/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"
     },
-    
-        {
+    {
       "key": "AliPS",
       "name": "搜索01｜盘搜　　　",
       "type": 3,
@@ -336,7 +329,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitea.com/boxlive/showbox/raw/branch/main/json/kuqimv.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/kuqimv.json"
     },
     {
       "key": "csp_xpath_A33",
@@ -346,7 +339,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/boxlive/box/raw/branch/main/json/mtv.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/mtv.json"
     },
     {
       "key": "entertainment",
@@ -365,7 +358,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/boxlive/showbox/raw/branch/main/json/分享短视频.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/分享短视频.json"
     },
     {
       "key": "csp_Yj1211",
@@ -375,7 +368,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitea.com/boxlive/showbox/raw/branch/main/jar/all.jar"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/all.jar"
     },
     {
       "key": "cartoon",
@@ -394,7 +387,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/boxlive/box/raw/branch/main/qxb/动漫直链.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/动漫直链.json"
     },
     {
       "key": "mtv_xp_异次动漫",
@@ -404,17 +397,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/boxlive/box/raw/branch/main/qxb/异次动漫.json"
-    },
-
-      {
-      "key": "18+",
-      "name": "********",
-      "type": 0,
-      "api": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/异次动漫.json"
     },
     {
       "key": "小湿妹源",
