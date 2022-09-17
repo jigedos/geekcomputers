@@ -398,40 +398,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/异次动漫.json"
-    },
-    {
-      "key": "18+",
-      "name": "***结束***",
-      "type": 0,
-      "api": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "18+",
-      "name": "***结束***",
-      "type": 0,
-      "api": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "18+",
-      "name": "********",
-      "type": 0,
-      "api": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "❤乐播资源",
-      "name": "❤乐播资源C",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 0
     }
   ],
   "parses": [
