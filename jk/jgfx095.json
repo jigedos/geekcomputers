@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/904886.jar",
+  //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/904886.jar",
   "lives": [
     {
       "group": "redirect",
@@ -217,7 +217,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "影视18｜两个B　　",
+      "name": "影视18｜两个BT 　",
       "type": 3,
       "api": "csp_Bttoo",
       "searchable": 1,
@@ -371,7 +371,7 @@
     },
     {
       "key": "体育",
-      "name": "体育02｜体育全项　",
+      "name": "体育01｜体育全项　",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -381,7 +381,7 @@
     },
     {
       "key": "球类",
-      "name": "体育03｜球类运动　",
+      "name": "体育02｜球类运动　",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -391,7 +391,7 @@
     },
     {
       "key": "棋牌",
-      "name": " 体育04｜棋牌娱乐　",
+      "name": " 体育03｜棋牌娱乐　",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -401,7 +401,7 @@
     },
     {
       "key": "csp_XYQBiu_一起看",
-      "name": "体育05｜一起看　　",
+      "name": "体育04｜一起看　　",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -412,7 +412,7 @@
     },
     {
       "key": "csp_xyqb_310直播",
-      "name": "体育02｜310直播　",
+      "name": "体育05｜310直播　",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
