@@ -33,59 +33,19 @@
       "filterable": 0
     },
     
-    {"key":"csp_Bttoo","name":"1✌两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-       {"key":"csp_BBB2","name":"2🅱️美女（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/138001380000/MHQTV/raw/commit/a16274759bb91ef09162340e3e10d4a346604059/BIBI/%e5%a5%b3%e5%9b%a2MV.txt"},
-	   	{"key": "软件","name": "3🅱️软件教程②","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExpVGVRX0J1M3J6RUtRYlJY.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/bili.jar"},
+       {"key":"csp_BBB2","name":"2🅱️美女（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/138001380000/MHQTV/raw/commit/a16274759bb91ef09162340e3e10d4a346604059/BIBI/女团MV.txt"},
+	   	{"key": "软件","name": "3🅱️软件教程②","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/软件教程.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/bili.jar"},
 
-    {"key":"csp_xpath_qiumi","name":"4⚽JRKAN直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dlj.bz/8zj1AA"},
-    {"key": "csp_XYQBiu_一起看","name": "5⚽一起看(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/17kan.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/XC0906.jar"},{"key":"csp_xyqb_310直播","name":"⚽310直播(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/310zb.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/XYQBiu_0907.jar"},{"key":"csp_xyqb_网易CC直播","name":"🎮网易CC直播(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/wycc.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/XYQBiu_0907.jar"},
+    {"key": "csp_XYQBiu_一起看","name": "5⚽一起看(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/17kan.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XC0906.jar"},{"key":"csp_xyqb_310直播","name":"⚽310直播(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/310zb.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XYQBiu_0907.jar"},{"key":"csp_xyqb_网易CC直播","name":"🎮网易CC直播(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/wycc.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XYQBiu_0907.jar"},
 
-    {"key":"csp_xyqb_斗鱼直播","name":"6🎮斗鱼直播(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/douyu.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/XYQBiu_0907.jar"},
-{"key":"csp_Kunyu77","name":"7🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Kunyu77","name":"71👒七七〔SP〕本接口在线免费维护更新","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/77.jpg;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
+    {"key":"csp_xyqb_斗鱼直播","name":"6🎮斗鱼直播(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/douyu.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XYQBiu_0907.jar"},
+    {"key":"csp_Kunyu77","name":"71👒七七〔SP〕本接口在线免费维护更新","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/77.jpg;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
 
     {"key":"csp_SP360","name":"8💫360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
   
-    {"key":"csp_QQ","name":"9🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
+    {"key":"csp_QQ","name":"9🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/qq_qiyi_mgtv.jpg"},
 
 
-    
-    {
-      "key": "t4_公共",
-      "name": "📡公共(T4)1",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "t4_搜片",
-      "name": "📡搜片(T4)2",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&timeout=7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "t4_合集",
-      "name": "📡合集(T4)3",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "t4_聚合",
-      "name": "📡聚合(T4)4",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "csp_alist",
       "name": "🗂Alist合集5",
@@ -94,7 +54,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/Alist.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Alist.json"
     },
     {
       "key": "csp_Bili合集",
@@ -104,7 +64,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/B站.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/B站.txt"
     },
     {
       "key": "csp_Bili演唱会",
@@ -114,7 +74,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/演唱会.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/演唱会.txt"
     },
     {
       "key": "csp_Bili歌曲",
@@ -124,7 +84,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/歌曲.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/歌曲.txt"
     },
     {
       "key": "csp_Bili热舞",
@@ -134,7 +94,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/女团.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/女团.txt"
     },
     {
       "key": "csp_Bili相声",
@@ -144,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/相声.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/相声.txt"
     },
     {
       "key": "csp_Bili戏曲",
@@ -154,7 +114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/戏曲.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/戏曲.txt"
     },
     {
       "key": "csp_xbb_斗鱼",
@@ -164,21 +124,12 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/斗鱼.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/斗鱼.json"
     },
-    {
-      "key": "csp_QB_17kan",
-      "name": "18⚽17看球",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/ext/17看球.json"
-    },
+  
     {
       "key": "csp_app_美剧范",
-      "name": "19🐌美剧范(v2)",
+      "name": "19🐌美剧范(慢)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -194,105 +145,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/搜狗影院.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/搜狗影院.json"
     },
-    {
-      "key": "mtv_pc_360影视",
-      "name": "官方1┃360影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mtv_pc_奇艺视频",
-      "name": "官方2┃奇艺视频",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mtv_pc_腾讯视频",
-      "name": "官方3┃腾讯视频",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mtv_pc_芒果视频",
-      "name": "官方4┃芒果视频",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mtv_xp_优酷视频",
-      "name": "官方5┃优酷视频",
-      "type": 0,
-      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "惊悚片",
-        "犯罪片",
-        "冒险片",
-        "悬疑片",
-        "动画片",
-        "武侠片",
-        "奇幻片"
-      ]
-    },
-    {
-      "key": "mtv_xp_皮皮视频",
-      "name": "官方6┃PPTV视频",
-      "type": 0,
-      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "惊悚片",
-        "犯罪片",
-        "冒险片",
-        "悬疑片",
-        "动画片",
-        "武侠片"
-      ]
-    },
+ 
+   
     {
       "key": "mtv_pc_360影视",
       "name": "官方7┃360影视",
@@ -360,36 +216,7 @@
         "奇幻片"
       ]
     },
-    {
-      "key": "mtv_xp_皮皮视频",
-      "name": "官方12┃PPTV视频",
-      "type": 0,
-      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "惊悚片",
-        "犯罪片",
-        "冒险片",
-        "悬疑片",
-        "动画片",
-        "武侠片"
-      ]
-    },
+   
     {
       "key": "mtv_pc_直播合集",
       "name": "20直播┃直播合集",
@@ -399,96 +226,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "mtv_pc_儿童乐园",
-      "name": "21哔哩┃儿童乐园",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitcode.net/MiaoTV/box/-/raw/master/Json/儿童乐园.json"
-    },
-    {
-      "key": "mtv_pc_学习课堂",
-      "name": "22哔哩┃学习课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitcode.net/MiaoTV/box/-/raw/master/Json/学习课堂.json"
-    },
-    {
-      "key": "mtv_xp_音乐演唱",
-      "name": "23哔哩┃音乐演唱",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitcode.net/MiaoTV/box/-/raw/master/Json/音乐演唱.json"
-    },
-    {
-      "key": "mtv_xp_戏曲杂苑",
-      "name": "24哔哩┃戏曲杂苑",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitcode.net/MiaoTV/box/-/raw/master/Json/戏曲杂苑.json"
-    },
-    {
-      "key": "mtv_pc_相声小品",
-      "name": "25哔哩┃相声小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitcode.net/MiaoTV/box/-/raw/master/Json/相声小品.json"
-    },
-    {
-      "key": "mtv_xp_女团热舞",
-      "name": "26哔哩┃女团热舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitcode.net/MiaoTV/box/-/raw/master/Json/女团热舞.json"
-    },
-    {
-      "key": "mtv_xp_体育赛事",
-      "name": "27哔哩┃体育赛事",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitcode.net/MiaoTV/box/-/raw/master/Json/体育赛事.json"
-    },
-    {
-      "key": "mtv_xp_棋牌娱乐",
-      "name": "28哔哩┃棋牌娱乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitcode.net/MiaoTV/box/-/raw/master/Json/棋牌娱乐.json"
-    },
-    {
-      "key": "mtv_xp_美食天地",
-      "name": "29哔哩┃美食天地",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitcode.net/MiaoTV/box/-/raw/master/Json/美食天地.json"
-    },
+   
     {
       "key": "Alist",
       "name": "30Alist(仅支持tvbox官版q仓)",
@@ -497,7 +235,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ygyzy.github.io/api/box/Alist.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Alist.json"
     },
     {
       "key": "Bili",
@@ -507,7 +245,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/哔哩.json"
     },
     {
       "key": "学堂",
@@ -517,7 +255,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/学堂.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/学堂.json"
     },
     {
       "key": "演唱会",
@@ -527,7 +265,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/演唱会.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/演唱会.json"
     },
     {
       "key": "戏曲",
@@ -537,7 +275,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/戏曲.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/戏曲.json"
     },
     {
       "key": "美食",
@@ -547,7 +285,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/美食.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/美食.json"
     },
     {
       "key": "少儿",
@@ -557,7 +295,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/少儿教育.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/少儿教育.json"
     },
     {
       "key": "体育",
@@ -567,7 +305,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/体育.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/体育.json"
     },
     {
       "key": "球类",
@@ -577,7 +315,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/球类.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/球类.json"
     },
     {
       "key": "棋牌",
@@ -587,7 +325,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/棋牌.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/棋牌.json"
     },
     {
       "key": "教程",
@@ -597,7 +335,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/教程.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/教程.json"
     },
     {
       "key": "MV",
@@ -607,7 +345,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/歌曲MV.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/歌曲MV.json"
     },
     {
       "key": "csp_XYQBiu_分享短视频",
@@ -617,19 +355,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/短视频.json",
-      "jar": "http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/短视频.json",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/短视频.jar"
     },
-    {
-      "key": "csp_Gitcafe",
-      "name": "影视02｜小纸条　　",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "7bb5b24ca3274ad781a6071082e9eebd"
-    },
+   
     {
       "key": "csp_LiteApple",
       "name": "影视03｜小苹果　　",
@@ -684,25 +413,8 @@
         "哔哩哔哩"
       ]
     },
-    {
-      "key": "KanSJ_spider",
-      "name": "影视07｜看视界　　",
-      "api": "csp_KanSJ",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
-      "key": "Smdyy_spider",
-      "name": "影视08｜神马影视　",
-      "api": "csp_Smdyy",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
+  
+    
     {
       "key": "csp_XYQBiu_凌云视频韩国",
       "name": "影视09｜凌云韩国　",
@@ -774,15 +486,7 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/sq.jar",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/凌云视频国内.json"
     },
-    {
-      "key": "csp_CZSPP",
-      "name": "影视️16｜厂长资源　",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "mtv_pc_快看影视",
       "name": "影视17｜快看影视　",
@@ -819,17 +523,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "csp_XYQBiu_影视工厂",
-      "name": "影视21｜影视工厂　",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/影视工厂.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XYQBiu_0828.jar"
-    },
+   
     {
       "key": "csp_77",
       "name": "影视22｜酷云七七　",
@@ -839,27 +533,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Alist",
-      "name": "影视23｜Alist 　　",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Alist.json"
-    },
-    {
-      "key": "csp_Alist1",
-      "name": "影视24｜Alist 　　",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com",
-      "jar": "https://gitea.com/suanjin/tv/raw/branch/master/JAR/alist.jar;md5;285d80f6e19e2613ea305083f84bd95a"
-    },
+
     {
       "key": "AliPS",
       "name": "搜索01｜盘搜　　　",
