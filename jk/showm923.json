@@ -158,16 +158,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Bili",
-      "name": "影视13｜哔哩套餐　",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/哔哩哔哩.json"
-    },
+   
     {
       "key": "csp_appysv2_群鑫影视〔APP〕",
       "name": "影视14｜群鑫影视　",
