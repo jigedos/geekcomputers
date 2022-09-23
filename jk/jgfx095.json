@@ -51,7 +51,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   {
+    {
       "key": "csp_SP360",
       "name": "影视03｜360影视　　",
       "api": "csp_SP360",
@@ -197,7 +197,7 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/sq.jar",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/凌云视频国内.json"
     },
-     {
+    {
       "key": "csp_77",
       "name": "影视16｜酷云七七　",
       "type": 3,
@@ -242,7 +242,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-     {
+    {
       "key": "mtv_pc_奇艺视频",
       "name": "官方01｜奇艺视频　",
       "type": 3,
@@ -310,7 +310,7 @@
       "filterable": 1,
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/qq_qiyi_mgtv.jpg"
     },
-     {
+    {
       "key": "csp_alist",
       "name": "网盘01｜Alist合集　",
       "type": 3,
@@ -360,7 +360,7 @@
       "filterable": 0,
       "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
-     {
+    {
       "key": "sports",
       "name": "■■■■ 体   育 ■■■■",
       "type": 3,
@@ -369,7 +369,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-     {
+    {
       "key": "体育",
       "name": "体育02｜体育全项　",
       "type": 3,
@@ -399,7 +399,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/棋牌.json"
     },
-      {
+    {
       "key": "csp_XYQBiu_一起看",
       "name": "体育05｜一起看　　",
       "type": 3,
@@ -410,7 +410,7 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/17kan.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XC0906.jar"
     },
-     {
+    {
       "key": "csp_xyqb_310直播",
       "name": "体育02｜310直播　",
       "type": 3,
@@ -440,7 +440,7 @@
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/kuqimv.json"
     },
-     {
+    {
       "key": "MV",
       "name": "音乐02｜歌曲MV　",
       "type": 3,
@@ -460,7 +460,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/mtv.json"
     },
-     {
+    {
       "key": "演唱会",
       "name": "音乐04｜演唱会　　",
       "type": 3,
@@ -509,7 +509,7 @@
       "filterable": 1,
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/all.jar"
     },
-     {
+    {
       "key": "csp_Bili热舞",
       "name": "娱乐03｜女团热舞　",
       "type": 3,
@@ -519,7 +519,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/女团.txt"
     },
-        {
+    {
       "key": "csp_xyqb_网易CC直播",
       "name": "娱乐04｜网易CC直播",
       "type": 3,
@@ -541,7 +541,7 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/douyu.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XYQBiu_0907.jar"
     },
-     {
+    {
       "key": "csp_Bili相声",
       "name": "娱乐06｜相声小品　",
       "type": 3,
@@ -551,7 +551,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/相声.txt"
     },
-      {
+    {
       "key": "戏曲",
       "name": "娱乐07｜戏曲文化　",
       "type": 3,
@@ -561,7 +561,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/戏曲.json"
     },
-     {
+    {
       "key": "csp_Bili戏曲",
       "name": "娱乐08｜戏曲文化２",
       "type": 3,
@@ -571,7 +571,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/戏曲.txt"
     },
-        {
+    {
       "key": "csp_xbb_斗鱼",
       "name": "娱乐09｜斗鱼直播(备)",
       "type": 3,
@@ -581,7 +581,7 @@
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/斗鱼.json"
     },
-     {
+    {
       "key": "bilibbili",
       "name": "■■■■ B  站 ■■■■",
       "type": 3,
@@ -610,7 +610,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/哔哩.json"
     },
-      {
+    {
       "key": "csp_XYQBiu_分享短视频",
       "name": "B站03｜分享短视频",
       "type": 3,
@@ -631,7 +631,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/美食.json"
     },
-      {
+    {
       "key": "csp_BBB2",
       "name": "B站05｜女团　　　",
       "type": 3,
@@ -650,7 +650,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-     {
+    {
       "key": "学堂",
       "name": "学习01｜学堂教育　",
       "type": 3,
@@ -680,7 +680,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/教程.json"
     },
-     {
+    {
       "key": "软件",
       "name": "学习04 ｜软件教程2",
       "type": 3,
@@ -1507,5 +1507,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img"}
-
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+}
