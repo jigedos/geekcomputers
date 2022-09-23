@@ -32,9 +32,27 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    
+    {"key":"csp_Bttoo","name":"1✌两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+       {"key":"csp_BBB2","name":"2🅱️美女（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/138001380000/MHQTV/raw/commit/a16274759bb91ef09162340e3e10d4a346604059/BIBI/%e5%a5%b3%e5%9b%a2MV.txt"},
+	   	{"key": "软件","name": "3🅱️软件教程②","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExpVGVRX0J1M3J6RUtRYlJY.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/bili.jar"},
+
+    {"key":"csp_xpath_qiumi","name":"4⚽JRKAN直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dlj.bz/8zj1AA"},
+    {"key": "csp_XYQBiu_一起看","name": "5⚽一起看(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/17kan.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/XC0906.jar"},{"key":"csp_xyqb_310直播","name":"⚽310直播(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/310zb.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/XYQBiu_0907.jar"},{"key":"csp_xyqb_网易CC直播","name":"🎮网易CC直播(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/wycc.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/XYQBiu_0907.jar"},
+
+    {"key":"csp_xyqb_斗鱼直播","name":"6🎮斗鱼直播(XYQB)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/douyu.json","jar":"https://agit.ai/138001380000/MHQTV/raw/branch/master/ty/XYQBiu_0907.jar"},
+{"key":"csp_Kunyu77","name":"7🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Kunyu77","name":"71👒七七〔SP〕本接口在线免费维护更新","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/77.jpg;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
+
+    {"key":"csp_SP360","name":"8💫360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+  
+    {"key":"csp_QQ","name":"9🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/qq_qiyi_mgtv.jpg"},
+
+
+    
     {
       "key": "t4_公共",
-      "name": "📡公共(T4)",
+      "name": "📡公共(T4)1",
       "type": 4,
       "api": "https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10",
       "searchable": 1,
@@ -43,7 +61,7 @@
     },
     {
       "key": "t4_搜片",
-      "name": "📡搜片(T4)",
+      "name": "📡搜片(T4)2",
       "type": 4,
       "api": "https://t4.secan.icu/vod?sites=all&timeout=7",
       "searchable": 1,
@@ -52,7 +70,7 @@
     },
     {
       "key": "t4_合集",
-      "name": "📡合集(T4)",
+      "name": "📡合集(T4)3",
       "type": 4,
       "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",
       "searchable": 1,
@@ -61,7 +79,7 @@
     },
     {
       "key": "t4_聚合",
-      "name": "📡聚合(T4)",
+      "name": "📡聚合(T4)4",
       "type": 4,
       "api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5",
       "searchable": 1,
@@ -70,7 +88,7 @@
     },
     {
       "key": "csp_alist",
-      "name": "🗂Alist合集",
+      "name": "🗂Alist合集5",
       "type": 3,
       "api": "csp_Alist",
       "searchable": 1,
@@ -80,7 +98,7 @@
     },
     {
       "key": "csp_Bili合集",
-      "name": " 🅱哔哩哔哩",
+      "name": " 11🅱哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -90,7 +108,7 @@
     },
     {
       "key": "csp_Bili演唱会",
-      "name": "🎸演唱会",
+      "name": "12🎸演唱会",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -100,7 +118,7 @@
     },
     {
       "key": "csp_Bili歌曲",
-      "name": "📺歌曲MV",
+      "name": "13📺歌曲MV",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -110,7 +128,7 @@
     },
     {
       "key": "csp_Bili热舞",
-      "name": "💃女团热舞",
+      "name": "14💃女团热舞",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -120,7 +138,7 @@
     },
     {
       "key": "csp_Bili相声",
-      "name": "🏮相声小品",
+      "name": "15🏮相声小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -130,7 +148,7 @@
     },
     {
       "key": "csp_Bili戏曲",
-      "name": "🎈国粹戏曲",
+      "name": "16🎈国粹戏曲",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -140,7 +158,7 @@
     },
     {
       "key": "csp_xbb_斗鱼",
-      "name": "🐟斗鱼直播",
+      "name": "17🐟斗鱼直播",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -150,7 +168,7 @@
     },
     {
       "key": "csp_QB_17kan",
-      "name": "⚽17看球",
+      "name": "18⚽17看球",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -160,7 +178,7 @@
     },
     {
       "key": "csp_app_美剧范",
-      "name": "🐌美剧范(v2)",
+      "name": "19🐌美剧范(v2)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -170,7 +188,7 @@
     },
     {
       "key": "csp_xbb_搜狗影院",
-      "name": "🍀搜狗影院",
+      "name": "20🍀搜狗影院",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -180,7 +198,7 @@
     },
     {
       "key": "mtv_pc_360影视",
-      "name": "官方┃360影视",
+      "name": "官方1┃360影视",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -189,7 +207,7 @@
     },
     {
       "key": "mtv_pc_奇艺视频",
-      "name": "官方┃奇艺视频",
+      "name": "官方2┃奇艺视频",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -198,7 +216,7 @@
     },
     {
       "key": "mtv_pc_腾讯视频",
-      "name": "官方┃腾讯视频",
+      "name": "官方3┃腾讯视频",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -207,7 +225,7 @@
     },
     {
       "key": "mtv_pc_芒果视频",
-      "name": "官方┃芒果视频",
+      "name": "官方4┃芒果视频",
       "type": 3,
       "api": "csp_MGTV",
       "searchable": 1,
@@ -216,7 +234,7 @@
     },
     {
       "key": "mtv_xp_优酷视频",
-      "name": "官方┃优酷视频",
+      "name": "官方5┃优酷视频",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 0,
@@ -247,7 +265,7 @@
     },
     {
       "key": "mtv_xp_皮皮视频",
-      "name": "官方┃PPTV视频",
+      "name": "官方6┃PPTV视频",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
       "searchable": 0,
@@ -277,7 +295,7 @@
     },
     {
       "key": "mtv_pc_360影视",
-      "name": "官方┃360影视",
+      "name": "官方7┃360影视",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -286,7 +304,7 @@
     },
     {
       "key": "mtv_pc_奇艺视频",
-      "name": "官方┃奇艺视频",
+      "name": "官方8┃奇艺视频",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -295,7 +313,7 @@
     },
     {
       "key": "mtv_pc_腾讯视频",
-      "name": "官方┃腾讯视频",
+      "name": "官方9┃腾讯视频",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -304,7 +322,7 @@
     },
     {
       "key": "mtv_pc_芒果视频",
-      "name": "官方┃芒果视频",
+      "name": "官方10┃芒果视频",
       "type": 3,
       "api": "csp_MGTV",
       "searchable": 1,
@@ -313,7 +331,7 @@
     },
     {
       "key": "mtv_xp_优酷视频",
-      "name": "官方┃优酷视频",
+      "name": "官方11┃优酷视频",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 0,
@@ -344,7 +362,7 @@
     },
     {
       "key": "mtv_xp_皮皮视频",
-      "name": "官方┃PPTV视频",
+      "name": "官方12┃PPTV视频",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
       "searchable": 0,
@@ -374,7 +392,7 @@
     },
     {
       "key": "mtv_pc_直播合集",
-      "name": "直播┃直播合集",
+      "name": "20直播┃直播合集",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -383,7 +401,7 @@
     },
     {
       "key": "mtv_pc_儿童乐园",
-      "name": "哔哩┃儿童乐园",
+      "name": "21哔哩┃儿童乐园",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -393,7 +411,7 @@
     },
     {
       "key": "mtv_pc_学习课堂",
-      "name": "哔哩┃学习课堂",
+      "name": "22哔哩┃学习课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -403,7 +421,7 @@
     },
     {
       "key": "mtv_xp_音乐演唱",
-      "name": "哔哩┃音乐演唱",
+      "name": "23哔哩┃音乐演唱",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -413,7 +431,7 @@
     },
     {
       "key": "mtv_xp_戏曲杂苑",
-      "name": "哔哩┃戏曲杂苑",
+      "name": "24哔哩┃戏曲杂苑",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -423,7 +441,7 @@
     },
     {
       "key": "mtv_pc_相声小品",
-      "name": "哔哩┃相声小品",
+      "name": "25哔哩┃相声小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -433,7 +451,7 @@
     },
     {
       "key": "mtv_xp_女团热舞",
-      "name": "哔哩┃女团热舞",
+      "name": "26哔哩┃女团热舞",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -443,7 +461,7 @@
     },
     {
       "key": "mtv_xp_体育赛事",
-      "name": "哔哩┃体育赛事",
+      "name": "27哔哩┃体育赛事",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -453,7 +471,7 @@
     },
     {
       "key": "mtv_xp_棋牌娱乐",
-      "name": "哔哩┃棋牌娱乐",
+      "name": "28哔哩┃棋牌娱乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -463,7 +481,7 @@
     },
     {
       "key": "mtv_xp_美食天地",
-      "name": "哔哩┃美食天地",
+      "name": "29哔哩┃美食天地",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -473,7 +491,7 @@
     },
     {
       "key": "Alist",
-      "name": "Alist(仅支持tvbox官版q仓)",
+      "name": "30Alist(仅支持tvbox官版q仓)",
       "type": 3,
       "api": "csp_Alist",
       "searchable": 1,
@@ -483,7 +501,7 @@
     },
     {
       "key": "Bili",
-      "name": "🅱️哔哩套餐〔SP〕",
+      "name": "31🅱️哔哩套餐〔SP〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -493,7 +511,7 @@
     },
     {
       "key": "学堂",
-      "name": "🏯学堂教育〔合集〕",
+      "name": "32🏯学堂教育〔合集〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -503,7 +521,7 @@
     },
     {
       "key": "演唱会",
-      "name": "🍟演唱会〔合集〕",
+      "name": "33🍟演唱会〔合集〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -513,7 +531,7 @@
     },
     {
       "key": "戏曲",
-      "name": "📽戏曲〔合集〕",
+      "name": "34📽戏曲〔合集〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -523,7 +541,7 @@
     },
     {
       "key": "美食",
-      "name": " 🍲美食〔合集〕",
+      "name": " 35🍲美食〔合集〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -533,7 +551,7 @@
     },
     {
       "key": "少儿",
-      "name": "🅰️少儿〔合集〕",
+      "name": "36🅰️少儿〔合集〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -543,7 +561,7 @@
     },
     {
       "key": "体育",
-      "name": "💋体育〔合集〕",
+      "name": "37💋体育〔合集〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -553,7 +571,7 @@
     },
     {
       "key": "球类",
-      "name": "⚽️球类〔合集〕",
+      "name": "38⚽️球类〔合集〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -563,7 +581,7 @@
     },
     {
       "key": "棋牌",
-      "name": " 🅿️棋牌娱乐〔合集〕",
+      "name": " 39🅿️棋牌娱乐〔合集〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -573,7 +591,7 @@
     },
     {
       "key": "教程",
-      "name": "🏧教程〔合集〕",
+      "name": "40🏧教程〔合集〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -583,7 +601,7 @@
     },
     {
       "key": "MV",
-      "name": "💽歌曲MV〔合集〕",
+      "name": "41💽歌曲MV〔合集〕",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -593,7 +611,7 @@
     },
     {
       "key": "csp_XYQBiu_分享短视频",
-      "name": "💠分享短视频〔XYQ〕",
+      "name": "42💠分享短视频〔XYQ〕",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -976,6 +994,9 @@
       "type": 2,
       "url": "Sequence"
     },
+    {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"GGTV1","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+{"name":"GGTV2","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
     {
       "name": "线路1",
       "type": 1,
@@ -1087,7 +1108,10 @@
       "name": "线路8",
       "type": 0,
       "url": "https://www.nxflv.com/?url="
+
     },
+    {"name":"恩哥", "type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
     {
       "name": "线路9",
       "type": 1,
@@ -1096,6 +1120,7 @@
         "header": {
           "User-Agent": "okhttp/4.1.0"
         }
+        
       }
     },
     {
