@@ -1,40 +1,12 @@
 {
   "Home": [
-    {
-      "key": "采集",
-      "title": "采集站",
-      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"
-    },
-    {
-      "key": "网页",
-      "title": "自定义",
-      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1855.png"
-    },
-    {
-      "key": "APP",
-      "title": "主页接口",
-      "pic": "https://pic.imgdb.cn/item/62fc363716f2c2beb14e4012.png"
-    },
-    {
-      "key": "直播",
-      "title": "电视直播",
-      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e183d.png"
-    },
-    {
-      "key": "历史",
-      "title": "历史",
-      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"
-    },
-    {
-      "key": "收藏",
-      "title": "收藏",
-      "pic": "https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"
-    },
-    {
-      "key": "推送",
-      "title": "推送",
-      "pic": "https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"
-    }
+    {"key":"采集","title":"七七资源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"},
+{"key":"网页","title":"网页资源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1855.png"},
+{"key":"APP","title":"APP资源","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e4012.png"},
+{"key":"直播","title":"电视直播","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e183d.png"},
+{"key":"历史","title":"历史","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"},
+{"key":"收藏","title":"收藏","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"},
+{"key":"推送","title":"推送","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"}
   ],
   "zhuyejiekou": [
     {
