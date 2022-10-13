@@ -1,12 +1,12 @@
-{
-"Home": [
-{"key":"采集","title":"七七资源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"},
-{"key":"网页","title":"网页资源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1855.png"},
-{"key":"APP","title":"APP资源","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e4012.png"},
-{"key":"直播","title":"电视直播","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e183d.png"},
-{"key":"历史","title":"历史","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"},
-{"key":"收藏","title":"收藏","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"},
-{"key":"推送","title":"推送","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"}
+{"Home": [
+{"key":"APP","title":"月光宝盒BOX","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/01.jpg"},
+{"key":"网页","title":"网页","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/02.jpg"},
+{"key":"采集","title":"采集","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/03.jpg"},
+{"key":"直播","title":"直播","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/04.jpg"},
+{"key":"历史","title":"历史","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/05.jpg"},
+{"key":"收藏","title":"收藏","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/06.jpg"},
+{"key":"推送","title":"推送","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/07.jpg"},
+{"key":"待添加","title":"待加","pic":"https://raw.iqiq.io/tianiue/MovieTV/master/tstp/08.jpg"}
 ],
 "zhuyejiekou": [
 {"name":"9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
