@@ -1,12 +1,14 @@
 {
 "Home": [
-{"key":"采集","title":"采集站","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"},
-{"key":"网页","title":"自定义","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1855.png"},
-{"key":"APP","title":"主页接口","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e4012.png"},
-{"key":"直播","title":"电视直播","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e183d.png"},
-{"key":"历史","title":"历史","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"},
-{"key":"收藏","title":"收藏","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"},
-{"key":"推送","title":"推送","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"}
+{"key":"采集","title":"采集站","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B1.png"},
+{"key":"网页","title":"自定义","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B2.png"},
+{"key":"APP","title":"主页接口","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B3.png"},
+{"key":"直播","title":"电视直播","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B4.png"},
+{"key":"历史","title":"历史","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B5.png"},
+{"key":"收藏","title":"收藏","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B6.png"},
+{"key":"推送","title":"推送","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B7.png"},
+{"key":"待添加","title":"待加","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B8.png"}
+
 ],
 "zhuyejiekou": [
 {"name":"9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
