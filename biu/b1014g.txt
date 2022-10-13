@@ -102,7 +102,7 @@
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="}
 ],
 
-"dianshizhibo": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/zby/main/biu-zby.txt",
+"dianshizhibo": "https://cdn.jsdelivr.net/gh/jigedos/zby@main/biu-zby.txt",
 
 "guolvdizhi": "player.css#url=#cnzz.com#51.la",
  
