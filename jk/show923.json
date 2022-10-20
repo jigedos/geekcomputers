@@ -14,8 +14,6 @@
     }
   ],
   "sites": [
-   
-    
     {
       "key": "title",
       "name": "💯 机哥分享！",
@@ -34,7 +32,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-   
     {
       "key": "csp_LiteApple",
       "name": "🚀影视01｜小苹果　　",
@@ -54,7 +51,6 @@
       "searchable": 1,
       "ext": ""
     },
-    
     {
       "key": "csp_Kuaikan",
       "name": "🚀影视03｜快看　　　",
@@ -100,7 +96,7 @@
       "filterable": 1,
       "ext": "http://ttzmz.net/api.php/v1.vod"
     },
-     {
+    {
       "key": "csp_Kunyu77",
       "name": "🚜影视06｜酷云七七　",
       "type": 3,
@@ -141,7 +137,6 @@
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/COKEMV.json"
     },
-   
     {
       "key": "csp_Bili",
       "name": "🚕影视10｜哔哩套餐　",
@@ -152,8 +147,6 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/哔哩哔哩.json"
     },
-  
-    
     {
       "key": "csp_xml___量子资源",
       "name": "🚕影视111｜量子资源　",
@@ -172,7 +165,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  
     {
       "key": "csp_QQ",
       "name": "🚀官方02｜腾讯视频(备)",
@@ -272,7 +264,6 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/棋牌.json"
     },
-
     {
       "key": "music",
       "name": "■■■■ 音  乐 ■■■■",
@@ -282,7 +273,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-   
     {
       "key": "csp_xpath_A33",
       "name": "🚕音乐01｜MTV B站　",
@@ -332,7 +322,6 @@
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/分享短视频.json"
     },
-    
     {
       "key": "csp_Bili热舞",
       "name": "🚚娱乐02｜女团热舞　",
@@ -1111,7 +1100,7 @@
     "哔哩"
   ],
   "ijk": [
-  	    {
+    {
       "group": "硬解码",
       "options": [
         {
@@ -1190,7 +1179,7 @@
           "value": "600000000"
         }
       ]
-    }
+    },
     {
       "group": "软解码",
       "options": [
@@ -1271,7 +1260,6 @@
         }
       ]
     }
-
   ],
   "ads": [
     "mimg.0c1q0l.cn",
