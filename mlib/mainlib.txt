@@ -1,0 +1,9 @@
+{
+"storeHouse": [
+
+{"sourceName":"💯公众号【放学回家看电视】",},
+{"sourceName":"1️⃣号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/2"},
+{"sourceName":"2️⃣号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/3"},
+{"sourceName":"3️⃣号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/4"},
+{"sourceName":"4️⃣号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/5"}
+]}
