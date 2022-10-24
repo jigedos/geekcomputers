@@ -1,39 +1,36 @@
 {
-    "urls": [
-        {
-"url":"http://52bsj.vip:98/wuai",
- "name":"1-吾爱"
-},
-
+  "urls": [
     {
-          "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-          "name":"2-星辰"
-        },
-        
-  {
-          "url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-          "name":"3-月光宝盒"
-        },    
-         {
-            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
-            "name": "4-佰欣园"
-        },
-               {
-          "url":"https://神器每日推送.tk/pz.json",
-          "name":"5-神器"
-        },
-               {
-          "url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-          "name":"6-小苹果"
-        },
-                 {
-          "url":"http://刚刚.live/猫",
-          "name":"7-刚刚线路"
-        },
-{
-"url":"https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
-"name":"3-蚂蚁"
-}
-      ]
-   
+      "url": "http://52bsj.vip:98/wuai",
+      "name": "1　🍉吾爱　　"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "2　🍇星辰　　"
+    },
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+      "name": "3　🍎月光宝盒"
+    },
+    {
+      "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
+      "name": "4　🍅佰欣园　"
+    },
+    {
+      "url": "https://神器每日推送.tk/pz.json",
+      "name": "5　🍓神器　　"
+    },
+    {
+      "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+      "name": "6　🍑小苹果　"
+    },
+    {
+      "url": "http://刚刚.live/猫",
+      "name": "7　🍒刚刚线路"
+    },
+    {
+      "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+      "name": "3　🍍蚂蚁　　"
+    }
+  ]
 }
