@@ -5,19 +5,19 @@
       "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib1.txt"
     },
     {
-      "sourceName": "1️⃣号-著名接口",
+      "sourceName": "１号　　🎁优选接口",
       "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib1.txt"
     },
     {
-      "sourceName": "2️⃣号-非著名接口",
+      "sourceName": "２号　　🎁次选接口",
       "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib2.txt"
     },
     {
-      "sourceName": "3️⃣号",
+      "sourceName": "３号　　🎁酱油仓库",
       "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib3.txt"
     },
     {
-      "sourceName": "4️⃣号仓",
+      "sourceName": "４号　　🎁测试仓库",
       "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib4.txt"
     }
   ]
