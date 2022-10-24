@@ -2,27 +2,27 @@
   "urls": [
     {
       "url": "http://111.67.196.181/mtv/meow.txt",
-      "name": "A　　🔆太阳　　"
+      "name": "A　　　　🔆太阳　　"
     },
     {
       "url": "http://byyds.top/w.txt",
-      "name": "B　　🌹YYDS　　"
+      "name": "B　　　　🌹YYDS　　"
     },
     {
       "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-      "name": "C　　🍄agit　　"
+      "name": "C　　　　🍄agit　　"
     },
     {
       "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
-      "name": "D　　🌼PinkBird"
+      "name": "D　　　　🌼PinkBird"
     },
     {
       "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
-      "name": "E　　🌷兽爪线路"
+      "name": "E　　　　🌷兽爪线路"
     },
     {
       "url": "https://ju.binghe.ga/4.txt",
-      "name": "F　　🔥冰河　　"
+      "name": "F　　　　🔥冰河　　"
     }
   ]
 }
