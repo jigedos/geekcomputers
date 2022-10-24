@@ -30,7 +30,7 @@
     },
     {
       "url": "https://download.kstore.space/download/2863/01.txt",
-      "name": "８　♎【潇洒】　　"
+      "name": "８　　　♎【潇洒】　　"
     }
   ]
 }
