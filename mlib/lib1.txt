@@ -26,7 +26,7 @@
     },
     {
       "url": "http://刚刚.live/猫",
-      "name": "7　🍒刚刚线路"
+      "name": "7　🍒刚刚　　"
     },
     {
       "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
