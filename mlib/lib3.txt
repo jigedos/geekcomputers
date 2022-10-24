@@ -1,20 +1,36 @@
 {
-    "urls": [
-              {
-            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
-            "name": "🔴-zzz1"
-        },
-{ "url": "https://agit.ai/n/b/raw/branch/a/b/c.json", "name": "🔵-缓冲99" }, 
-{ "url": "http://home.jundie.top:81/TVBox/yosakoi.json", "name": "⚫-军碟" }, 
- { "url": "http://xn--4bra.live/%E7%8C%AB", "name": "🔶-4K" },
-{ "url": "http://dlj.bz/kjTAcf", "name": "🐔TG/DIJ" }, { "url": "http://111.67.196.181/mtv/270.txt", "name": "🐧270" }, 
-{ "url": "http://js.134584.xyz/json/pp87.json", "name": "🔷-影酷" }, 
-
-        {
-           "url": "https://download.kstore.space/download/2863/01.txt",
-           "name":"💠-潇洒"
-        }
-        
-        
-     ]
-   }
+  "urls": [
+    {
+      "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+      "name": "⒈➡️➡️zzz1　"
+    },
+    {
+      "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+      "name": "⒉➡️➡️缓冲99"
+    },
+    {
+      "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
+      "name": "⒊➡️➡️军碟　"
+    },
+    {
+      "url": "http://xn--4bra.live/%E7%8C%AB",
+      "name": "⒋➡️➡️4K　　"
+    },
+    {
+      "url": "http://dlj.bz/kjTAcf",
+      "name": "➡️➡️TG/DIJ　"
+    },
+    {
+      "url": "http://111.67.196.181/mtv/270.txt",
+      "name": "⒌➡️➡️270　"
+    },
+    {
+      "url": "http://js.134584.xyz/json/pp87.json",
+      "name": "⒍➡️➡️影酷　"
+    },
+    {
+      "url": "https://download.kstore.space/download/2863/01.txt",
+      "name": "⒎➡️➡️潇洒　"
+    }
+  ]
+}
