@@ -3,6 +3,4 @@
 {"url": "http://amtv.ga/js","name": "🅿️-JS2"}, 
 { "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0", "name": "Ⓜ️-学习" },
 
-
-
 ]}
