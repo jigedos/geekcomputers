@@ -1,15 +1,14 @@
 {
   "urls": [
-     {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/show923.json",
-      "name": "默认　　　🍋ShowBox"
-    },
     {
       "url": "http://52bsj.vip:98/wuai",
       "name": "1　　　　🍉吾爱　　"
     },
     
-     
+       {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/show923.json",
+      "name": "默认　　　🍋ShowBox"
+    },
     
     
     {
