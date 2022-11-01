@@ -24,7 +24,7 @@
       "filterable": 0
     },
     
-{"key":"mtv_pc_酷云七七","name":"A┃酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_酷云七七","name":"A00┃酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_图图影视","name":"B┃图图影视","type":3,"api":"csp_AppTT"         ,"searchable":1,"quickSearch":1,"filterable":1, "jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"},
 {"key":"mtv_pc_在线之家","name":"B┃在线之家","type":3,"api":"csp_Zxzj"          ,"searchable":1,"quickSearch":1,"filterable":1, "jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"},
 {"key":"mtv_pc_追剧达人","name":"B┃追剧达人","type":3,"api":"csp_Zjdr"          ,"searchable":1,"quickSearch":1,"filterable":1, "jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"},
