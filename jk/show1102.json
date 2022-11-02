@@ -137,7 +137,7 @@
     },
     {
       "key": "mtv_xp_茶杯狐源",
-      "name": "影视12｜茶杯狐源 AY DM",
+      "name": "影视12｜茶杯狐源",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -147,7 +147,7 @@
     },
     {
       "key": "mtv_xp_达龟影视",
-      "name": "影视13｜达龟影视ZY DM",
+      "name": "影视13｜达龟影视",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -374,7 +374,7 @@
     },
     {
       "key": "csp_xyqb_310直播",
-      "name": "体育05｜310直播　",
+      "name": "体育05｜310直播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
@@ -414,7 +414,7 @@
     },
     {
       "key": "csp_xpath_A33",
-      "name": "音乐02｜MTV|B站　",
+      "name": "音乐02｜B站MV　　",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -424,7 +424,7 @@
     },
     {
       "key": "mtv_xp_酷奇视频",
-      "name": "音乐03 ｜酷奇音乐",
+      "name": "音乐03｜酷奇音乐",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -535,7 +535,7 @@
     },
     {
       "key": "csp_xbb_斗鱼",
-      "name": "娱乐06｜斗鱼直播2　",
+      "name": "娱乐06｜斗鱼直播2",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -615,7 +615,7 @@
     },
     {
       "key": "美食",
-      "name": " B站04｜各地美食　",
+      "name": "B站04｜各地美食　",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -625,7 +625,7 @@
     },
     {
       "key": "mtv_xp_美食天地",
-      "name": "B站05｜美食天地",
+      "name": "B站05｜美食天地　",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -734,7 +734,7 @@
     },
     {
       "key": "mtv_xp_动漫巴士",
-      "name": "动漫03｜动漫巴士",
+      "name": "动漫03｜动漫巴士　",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -744,7 +744,7 @@
     },
     {
       "key": "mtv_xp_动漫岛源",
-      "name": "动漫04｜动漫岛源",
+      "name": "动漫04｜动漫岛源　",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -754,7 +754,7 @@
     },
     {
       "key": "mtv_xp_去看动漫",
-      "name": "动漫05｜去看动漫",
+      "name": "动漫05｜去看动漫　",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -783,7 +783,7 @@
     },
     {
       "key": "csp_appysv2_群鑫影视〔APP〕",
-      "name": "美韩｜群鑫影视　",
+      "name": "美韩｜群鑫影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -803,7 +803,7 @@
     },
     {
       "key": "csp_xml___量子资源",
-      "name": "海外｜量子资源　",
+      "name": "海外｜量子资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -841,7 +841,7 @@
     },
     {
       "key": "mjxq_spider",
-      "name": "美日韩｜美剧星球　",
+      "name": "美日韩｜美剧星球",
       "type": 3,
       "api": "csp_Mjxq",
       "searchable": 1,
@@ -870,7 +870,7 @@
     },
     {
       "key": "mtv_xp_影视工厂",
-      "name": "美日韩｜影视工厂 ALL",
+      "name": "美日韩｜影视工厂",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -920,7 +920,7 @@
     },
     {
       "key": "天堂资源〔官源〕",
-      "name": "港欧亚｜天堂资源　",
+      "name": "港欧亚｜天堂资源",
       "type": 1,
       "api": "http://vipmv.cc/api.php/provide/vod/",
       "searchable": 1,
