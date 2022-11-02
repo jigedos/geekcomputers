@@ -15,108 +15,48 @@
   ],
   "sites": [
     {
-      "key": "title",
+      "key": "mtv_pc_酷云七七",
       "name": "💯 机哥分享！",
       "type": 3,
-      "api": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    
-{"key":"mtv_pc_酷云七七","name":"A00┃酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_图图影视","name":"B┃图图影视","type":3,"api":"csp_AppTT"         ,"searchable":1,"quickSearch":1,"filterable":1, "jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"},
-{"key":"mtv_pc_在线之家","name":"B┃在线之家","type":3,"api":"csp_Zxzj"          ,"searchable":1,"quickSearch":1,"filterable":1, "jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"},
-{"key":"mtv_pc_追剧达人","name":"B┃追剧达人","type":3,"api":"csp_Zjdr"          ,"searchable":1,"quickSearch":1,"filterable":1, "jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"},
-{"key":"mtv_pc_两个磁力","name":"B┃两个磁力","type":3,"api":"csp_Bttoo"         ,"searchable":1,"quickSearch":1,"filterable":1, "jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"},
-{"key":"mtv_pc_哔滴影视","name":"B┃哔滴影视","type":3,"api":"csp_Bdys01"        ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_乐猪影视","name":"B┃乐猪影视","type":3,"api":"csp_Lezhu"         ,"searchable":1,"quickSearch":1,"filterable":1}, 
-{"key":"mtv_pc_小苹果源","name":"A┃小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
-{"key":"mtv_pc_厂长影视","name":"B┃厂长资源","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
-{"key":"mtv_pc_美剧星球","name":"BA┃美剧星球","type":3,"api":"csp_Mjxq"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
-{"key":"mtv_pc_剧荒影院","name":"B┃剧荒影院","type":3,"api":"csp_Juhuang"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
-
-
-{"key":"mtv_xp_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/盘搜资源.json"},
-{"key":"mtv_xp_找找资源","name":"搜索┃找找资源","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/盘搜资源.json"},
-{"key":"mtv_xp_云搜资源","name":"搜索┃云搜资源","type":3,"api":"csp_Upyunso"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/盘搜资源.json"},
-{"key":"mtv_xp_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yisou"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/盘搜资源.json"},
-{"key":"mtv_xp_阿里盘搜","name":"搜索┃阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/盘搜资源.json"},
-{"key":"push_agent"     ,"name":"推送┃推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/盘搜资源.json"},
-
-{"key":"mtv_xp_农民影视","name":"切片A┃农民影视","type":3,"api":"csp_Nmys"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar", "ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/农民影视.json"},
-{"key":"mtv_xp_极品影视","name":"A┃极品影视","type":3,"api":"csp_xBPQ"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar","ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/极品影视.json"},
-{"key":"mtv_xp_饭团影院","name":"A┃饭团影院ZY DM","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/饭团影院.json"},
-{"key":"mtv_xp_影视工厂","name":"A┃影视工厂 ALL","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/影视工厂.json"},
-{"key":"mtv_xp_茶杯狐源","name":"BA┃茶杯狐源 AY DM","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/茶杯狐源.json"},
-{"key":"mtv_xp_达龟影视","name":"B┃达龟影视ZY DM","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/达龟影视.json"},
-{"key":"mtv_xp_乐猪影视","name":"BA┃乐猪影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/乐猪影视.json"},
-{"key":"mtv_xp_在线之家","name":"A┃在线之家","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/在线之家.json"},
-{"key":"mtv_xp_焦炭影视","name":"B┃焦炭影视","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/焦炭影视.json"},
-{"key":"mtv_xp_厂长影视","name":"B┃厂长影视","type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/厂长影视.json"},
-{"key":"mtv_xp_厂长直链","name":"B┃厂长直链","type":3,"api":"csp_xBPQ"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar","ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/厂长直链.json"}, 
-{"key":"mtv_xp_蓝光影院","name":"C┃蓝光影院","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/蓝光影院.json"},
-{"key":"mtv_xp_金眼影视","name":"C┃金眼影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/金眼影视.json"},
-{"key":"mtv_xp_Nike影视","name":"C┃Nike影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/Nike影视.json"},
-{"key":"mtv_xp_动漫巴士","name":"B┃动漫巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/动漫巴士.json"},
-{"key":"mtv_xp_动漫直链","name":"B┃动漫直链","type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/动漫直链.json"},
-{"key":"mtv_xp_动漫岛源","name":"B┃动漫岛源","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/动漫岛源.json"},
-{"key":"mtv_xp_异次动漫","name":"B┃异次动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/异次动漫.json"},
-{"key":"mtv_xp_去看动漫","name":"C┃去看动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/去看动漫.json"},
-{"key":"mtv_xp_不卡影院","name":"B┃不卡影院","type":3,"api":"csp_XBiubiu"       ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/不卡影院.json"},
-{"key":"mtv_xp_骚火电影","name":"B┃骚火电影","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/骚火电影.json"},
-{"key":"mtv_xp_口袋影院","name":"CA┃口袋影院","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/口袋影院.json"},
-{"key":"mtv_xp_剧白影视","name":"B┃剧白影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/剧白影视.json"},
-{"key":"mtv_xp_剧白直链","name":"B┃剧白直链","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/剧白直链.json"},
-{"key":"mtv_xp_比特影视","name":"B┃比特影视","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/比特影视.json"},
-{"key":"mtv_xp_花猫影视","name":"B┃花猫影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/花猫影视.json"},
-{"key":"mtv_xp_瓜皮影视","name":"CA┃瓜皮影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/瓜皮影视.json"},
-{"key":"mtv_xp_凌云影视","name":"BA┃凌云影视","type":3,"api":"csp_XYQBiu"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/凌云影视.json"},
-{"key":"mtv_xp_凌云韩国","name":"A┃凌云韩国","type":3,"api":"csp_XYQBiu"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/凌云韩国.json"},
-{"key":"mtv_xp_奇优影院","name":"C┃奇优影院","type":3,"api":"csp_XBiubiu"       ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/奇优影院.json"}, 
-
-     {
-      "key": "csp_Kunyu77",
-      "name": "影视01｜酷云七七　",
-      "type": 3,
       "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/77.jpg;md5;1b0fae7c99b09c6f66d6c39b114580a9"
-    },
-    {
-      "key": "csp_LiteApple",
-      "name": "影视02｜小苹果　　",
-      "type": 3,
-      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "csp_SP360",
-      "name": "影视03｜360影视　　",
-      "api": "csp_SP360",
+      "key": "mtv_pc_小苹果源",
+      "name": "影视01｜小苹果源",
       "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
+      "api": "csp_LiteApple",
       "searchable": 1,
-      "ext": ""
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"
     },
     {
-      "key": "csp_appysv2_段友影视〔APP〕",
-      "name": "影视04｜段友影视　",
+      "key": "mtv_xp_极品影视",
+      "name": "影视02｜极品影视",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://js.66app.me/api.php/app/"
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar",
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/极品影视.json"
+    },
+    {
+      "key": "mtv_xp_饭团影院",
+      "name": "影视03｜饭团影院",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/饭团影院.json"
     },
     {
       "key": "csp_Kuaikan",
-      "name": "影视05C｜快看　　　",
+      "name": "影视04｜快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -124,65 +64,170 @@
       "filterable": 1
     },
     {
-      "key": "天堂资源〔官源〕",
-      "name": "影视06｜天堂资源　",
-      "type": 1,
-      "api": "http://vipmv.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "哔哩哔哩"
-      ]
-    },
-    {
-      "key": "csp_app_美剧范",
-      "name": "影视07｜美剧范(慢)",
+      "key": "mtv_xp_农民影视",
+      "name": "影视05｜农民影视",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://ttzmz.net/api.php/v1.vod"
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar",
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/农民影视.json"
     },
     {
-      "key": "csp_xbb_搜狗影院",
-      "name": "影视08｜搜狗影院　",
+      "key": "mtv_xp_在线之家",
+      "name": "影视06｜在线之家",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/搜狗影院.json"
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/在线之家.json"
     },
     {
-      "key": "csp_XYQBiu_凌云视频韩国",
-      "name": "影视09｜凌云韩国　",
+      "key": "mtv_pc_图图影视",
+      "name": "影视07｜图图影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"
+    },
+    {
+      "key": "mtv_pc_追剧达人",
+      "name": "影视08｜追剧达人",
+      "type": 3,
+      "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"
+    },
+    {
+      "key": "mtv_pc_厂长影视",
+      "name": "影视09｜厂长资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"
+    },
+    {
+      "key": "mtv_xp_厂长影视",
+      "name": "影视10｜厂长影视",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/厂长影视.json"
+    },
+    {
+      "key": "mtv_xp_厂长直链",
+      "name": "影视11｜厂长直链",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar",
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/厂长直链.json"
+    },
+    {
+      "key": "mtv_xp_茶杯狐源",
+      "name": "影视12｜茶杯狐源 AY DM",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/茶杯狐源.json"
+    },
+    {
+      "key": "mtv_xp_达龟影视",
+      "name": "影视13｜达龟影视ZY DM",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/达龟影视.json"
+    },
+    {
+      "key": "mtv_xp_金眼影视",
+      "name": "影视14｜金眼影视",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/金眼影视.json"
+    },
+    {
+      "key": "mtv_xp_不卡影院",
+      "name": "影视15｜不卡影院",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/不卡影院.json"
+    },
+    {
+      "key": "mtv_xp_剧白影视",
+      "name": "影视16｜剧白影视",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/剧白影视.json"
+    },
+    {
+      "key": "mtv_xp_剧白直链",
+      "name": "影视17｜剧白直链",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/剧白直链.json"
+    },
+    {
+      "key": "mtv_xp_花猫影视",
+      "name": "影视18｜花猫影视",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/花猫影视.json"
+    },
+    {
+      "key": "mtv_xp_凌云影视",
+      "name": "影视19｜凌云影视",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/凌云影视.json"
+    },
+    {
+      "key": "mtv_xp_奇优影院",
+      "name": "影视20｜奇优影院",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/sq.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/凌云视频韩国.json"
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/奇优影院.json"
     },
     {
       "key": "csp_biubiu_COKEMV",
-      "name": "影视10｜COKEMV　",
+      "name": "影视21｜COKEMV ",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -191,103 +236,18 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/COKEMV.json"
     },
     {
-      "key": "csp_biubiu_555电影",
-      "name": "影视11｜555电影　",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/555电影.json"
-    },
-    {
-      "key": "mjxq_spider",
-      "name": "影视12｜美剧星球　",
-      "type": 3,
-      "api": "csp_Mjxq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bili",
-      "name": "影视13｜哔哩套餐　",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/哔哩哔哩.json"
-    },
-    {
-      "key": "csp_appysv2_群鑫影视〔APP〕",
-      "name": "影视14｜群鑫影视　",
+      "key": "csp_appysv2_段友影视〔APP〕",
+      "name": "影视22｜段友影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.qunxinys.com/api.php/v1.vod"
-    },
-    {
-      "key": "csp_XYQBiu_凌云视频国内",
-      "name": "影视15｜凌云国内　",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/sq.jar",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/凌云视频国内.json"
-    },
-    {
-      "key": "csp_77",
-      "name": "影视16｜酷云七七　",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mtv_pc_快看影视",
-      "name": "影视17｜快看影视　",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "影视18｜两个BT 　",
-      "type": 3,
-      "api": "csp_Bttoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Mjxq",
-      "name": "影视️19｜美剧星球　",
-      "type": 3,
-      "api": "csp_Mjxq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_xml___量子资源",
-      "name": "影视20｜量子资源　",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
+      "ext": "http://js.66app.me/api.php/app/"
     },
     {
       "key": "mtv_pc_奇艺视频",
-      "name": "官方01｜奇艺视频　",
+      "name": "官方01｜奇艺视频",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
@@ -296,7 +256,7 @@
     },
     {
       "key": "mtv_pc_腾讯视频",
-      "name": "官方02｜腾讯视频　",
+      "name": "官方02｜腾讯视频",
       "type": 3,
       "api": "csp_QQ",
       "searchable": 1,
@@ -305,7 +265,7 @@
     },
     {
       "key": "mtv_pc_芒果视频",
-      "name": "官方03｜芒果视频　",
+      "name": "官方03｜芒果视频",
       "type": 3,
       "api": "csp_MGTV",
       "searchable": 1,
@@ -314,7 +274,7 @@
     },
     {
       "key": "mtv_xp_优酷视频",
-      "name": "官方04｜优酷视频　",
+      "name": "官方04｜优酷视频",
       "type": 0,
       "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
       "searchable": 0,
@@ -353,59 +313,14 @@
       "filterable": 1,
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/qq_qiyi_mgtv.jpg"
     },
- {"key":"mtv_pc_360影视" ,"name":"A┃360影视" ,"type":3,"api":"csp_SP360"         ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_奇艺视频","name":"A┃奇艺视频","type":3,"api":"csp_IQIYI"         ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_腾讯视频","name":"A┃腾讯视频","type":3,"api":"csp_QQ"            ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_芒果视频","name":"A┃芒果视频","type":3,"api":"csp_MGTV"          ,"searchable":1,"quickSearch":1,"filterable":1},
     {
-      "key": "csp_alist",
-      "name": "网盘01｜Alist合集　",
+      "key": "mtv_pc_360影视",
+      "name": "官方06｜360影视",
       "type": 3,
-      "api": "csp_Alist",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Alist.json"
-    },
-    {
-      "key": "Alist",
-      "name": "网盘02｜Alist　　　",
-      "type": 3,
-      "api": "csp_Alist",
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Alist.json"
-    },
-    {
-      "key": "AliPS",
-      "name": "搜索01｜盘搜　　　",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-    },
-    {
-      "key": "FindZY",
-      "name": "搜索02｜找资源　　",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-    },
-    {
-      "key": "csp_Yiso",
-      "name": "搜索03｜易搜　　　",
-      "type": 3,
-      "api": "csp_Yiso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+      "filterable": 1
     },
     {
       "key": "sports",
@@ -418,7 +333,7 @@
     },
     {
       "key": "体育",
-      "name": "体育01｜体育全项　",
+      "name": "体育01｜体育全项",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -428,7 +343,7 @@
     },
     {
       "key": "球类",
-      "name": "体育02｜球类运动　",
+      "name": "体育02｜球类运动",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -438,7 +353,7 @@
     },
     {
       "key": "棋牌",
-      "name": " 体育03｜棋牌娱乐　",
+      "name": " 体育03｜棋牌娱乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -448,7 +363,7 @@
     },
     {
       "key": "csp_XYQBiu_一起看",
-      "name": "体育04｜一起看　　",
+      "name": "体育04｜赛事直播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -468,9 +383,16 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/310zb.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XYQBiu_0907.jar"
     },
-      {"key":"mtv_xp_球迷直播","name":"B┃球迷直播","type":3,"api":"csp_XPathFilter"   ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/球迷直播.json"},
-{"key":"mtv_xp_体育赛事","name":"A┃体育赛事","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/体育赛事.json"},
-{"key":"mtv_xp_棋牌娱乐","name":"A┃棋牌娱乐","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/棋牌娱乐.json"},
+    {
+      "key": "mtv_xp_球迷直播",
+      "name": "体育06｜球迷直播",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/球迷直播.json"
+    },
     {
       "key": "music",
       "name": "■■■■ 音  乐 ■■■■",
@@ -481,18 +403,8 @@
       "filterable": 0
     },
     {
-      "key": "csp_xpath_kuqimv",
-      "name": "音乐01｜酷奇MV　",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/kuqimv.json"
-    },
-    {
       "key": "MV",
-      "name": "音乐02｜歌曲MV　",
+      "name": "音乐01｜歌曲MV　",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -502,13 +414,23 @@
     },
     {
       "key": "csp_xpath_A33",
-      "name": "音乐03｜MTV[B站　",
+      "name": "音乐02｜MTV|B站　",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/mtv.json"
+    },
+    {
+      "key": "mtv_xp_酷奇视频",
+      "name": "音乐03 ｜酷奇音乐",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/酷奇视频.json"
     },
     {
       "key": "演唱会",
@@ -530,10 +452,26 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/歌曲.txt"
     },
-    {"key":"mtv_xp_音乐演唱","name":"A┃音乐演唱","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/音乐演唱.json"},
-
-{"key":"mtv_xp_酷狗视频","name":"A┃酷狗音乐","type":3,"api":"csp_XYQBiu"        ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/酷狗视频.json"},
-{"key":"mtv_xp_酷奇视频","name":"A┃酷奇音乐","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/酷奇视频.json"},
+    {
+      "key": "mtv_xp_音乐演唱",
+      "name": "音乐06｜音乐演唱",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/音乐演唱.json"
+    },
+    {
+      "key": "mtv_xp_酷狗视频",
+      "name": "音乐07｜酷狗音乐",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/酷狗视频.json"
+    },
     {
       "key": "entertainment",
       "name": "■■■■ 娱  乐 ■■■■",
@@ -543,7 +481,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {"key":"mtv_pc_直播合集","name":"A┃直播合集","type":3,"api":"csp_Yj1211"        ,"searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_XYQBiu_短视频",
       "name": "娱乐01｜分享短视频",
@@ -597,8 +534,18 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XYQBiu_0907.jar"
     },
     {
+      "key": "csp_xbb_斗鱼",
+      "name": "娱乐06｜斗鱼直播2　",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/斗鱼.json"
+    },
+    {
       "key": "csp_Bili相声",
-      "name": "娱乐06｜相声小品　",
+      "name": "娱乐07｜相声小品　",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -608,7 +555,7 @@
     },
     {
       "key": "戏曲",
-      "name": "娱乐07｜戏曲文化　",
+      "name": "娱乐08｜戏曲文化　",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -618,27 +565,13 @@
     },
     {
       "key": "csp_Bili戏曲",
-      "name": "娱乐08｜戏曲文化２",
+      "name": "娱乐09｜戏曲文化２",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/戏曲.txt"
-    },
-    {"key":"mtv_xp_戏曲杂苑","name":"A┃戏曲杂苑","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/戏曲杂苑.json"},
-{"key":"mtv_xp_相声小品","name":"A┃相声小品","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/相声小品.json"},
-{"key":"mtv_xp_女团热舞","name":"A┃女团热舞","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/女团热舞.json"},
-
-    {
-      "key": "csp_xbb_斗鱼",
-      "name": "娱乐09｜斗鱼直播(备)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/斗鱼.json"
     },
     {
       "key": "bilibbili",
@@ -690,17 +623,35 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/美食.json"
     },
-  
-{"key":"mtv_xp_美食天地","name":"A┃美食天地","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/美食天地.json"},
+    {
+      "key": "mtv_xp_美食天地",
+      "name": "B站05｜美食天地",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/美食天地.json"
+    },
     {
       "key": "csp_BBB2",
-      "name": "B站05｜女团　　　",
+      "name": "B站06｜女团　　　",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://agit.ai/138001380000/MHQTV/raw/commit/a16274759bb91ef09162340e3e10d4a346604059/BIBI/女团MV.txt"
+    },
+    {
+      "key": "csp_Bili",
+      "name": "影视07｜哔哩套餐　",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/哔哩哔哩.json"
     },
     {
       "key": "study",
@@ -752,9 +703,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/软件教程.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/bili.jar"
     },
-    {"key":"mtv_xp_儿童乐园","name":"A┃儿童乐园","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/儿童乐园.json"},
-{"key":"mtv_xp_学习课堂","name":"A┃学习课堂","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/学习课堂.json"},
-
     {
       "key": "cartoon",
       "name": "■■■■ 动  漫 ■■■■",
@@ -783,6 +731,326 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/异次动漫.json"
+    },
+    {
+      "key": "mtv_xp_动漫巴士",
+      "name": "动漫03｜动漫巴士",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/动漫巴士.json"
+    },
+    {
+      "key": "mtv_xp_动漫岛源",
+      "name": "动漫04｜动漫岛源",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/动漫岛源.json"
+    },
+    {
+      "key": "mtv_xp_去看动漫",
+      "name": "动漫05｜去看动漫",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/去看动漫.json"
+    },
+    {
+      "key": "ts",
+      "name": "■■■■ 特  色 ■■■■",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "mtv_pc_剧荒影院",
+      "name": "油管｜剧荒影院",
+      "type": 3,
+      "api": "csp_Juhuang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"
+    },
+    {
+      "key": "csp_appysv2_群鑫影视〔APP〕",
+      "name": "美韩｜群鑫影视　",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.qunxinys.com/api.php/v1.vod"
+    },
+    {
+      "key": "mtv_pc_美剧星球",
+      "name": "美韩｜美剧星球",
+      "type": 3,
+      "api": "csp_Mjxq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"
+    },
+    {
+      "key": "csp_xml___量子资源",
+      "name": "海外｜量子资源　",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "mtv_pc_乐猪影视",
+      "name": "美韩｜乐猪影视",
+      "type": 3,
+      "api": "csp_Lezhu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mtv_xp_乐猪影视",
+      "name": "美韩｜乐猪影视",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/乐猪影视.json"
+    },
+    {
+      "key": "mtv_xp_口袋影院",
+      "name": "美韩｜口袋影院",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/口袋影院.json"
+    },
+    {
+      "key": "mjxq_spider",
+      "name": "美日韩｜美剧星球　",
+      "type": 3,
+      "api": "csp_Mjxq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mtv_pc_在线之家",
+      "name": "美日韩｜在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"
+    },
+    {
+      "key": "mtv_pc_两个磁力",
+      "name": "美日韩｜两个磁力",
+      "type": 3,
+      "api": "csp_Bttoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"
+    },
+    {
+      "key": "mtv_xp_影视工厂",
+      "name": "美日韩｜影视工厂 ALL",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/影视工厂.json"
+    },
+    {
+      "key": "mtv_xp_蓝光影院",
+      "name": "美日韩｜蓝光影院",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/蓝光影院.json"
+    },
+    {
+      "key": "mtv_xp_比特影视",
+      "name": "美日韩｜比特影视",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/比特影视.json"
+    },
+    {
+      "key": "mtv_xp_Nike影视",
+      "name": "欧美漫｜Nike影视",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/Nike影视.json"
+    },
+    {
+      "key": "mtv_xp_焦炭影视",
+      "name": "港欧亚｜焦炭影视",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/焦炭影视.json"
+    },
+    {
+      "key": "天堂资源〔官源〕",
+      "name": "港欧亚｜天堂资源　",
+      "type": 1,
+      "api": "http://vipmv.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "哔哩哔哩"
+      ]
+    },
+    {
+      "key": "mtv_xp_瓜皮影视",
+      "name": "港欧亚｜瓜皮影视",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/瓜皮影视.json"
+    },
+    {
+      "key": "mtv_xp_骚火电影",
+      "name": "港欧亚｜骚火电影",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/骚火电影.json"
+    },
+    {
+      "key": "csp_xbb_搜狗影院",
+      "name": "港欧亚｜搜狗影院",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/搜狗影院.json"
+    },
+    {
+      "key": "mtv_xp_凌云韩国",
+      "name": "大棒子｜凌云韩国",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/凌云韩国.json"
+    },
+    {
+      "key": "netdisk",
+      "name": "■■■■ 网  盘 ■■■■",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "csp_alist",
+      "name": "网盘01｜Alist合集",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Alist.json"
+    },
+    {
+      "key": "Alist",
+      "name": "网盘02｜Alist　　",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Alist.json"
+    },
+    {
+      "key": "search",
+      "name": "■■■■ 搜  索 ■■■■",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "AliPS",
+      "name": "搜索01｜盘搜　　　",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+    },
+    {
+      "key": "FindZY",
+      "name": "搜索02｜找资源　　",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+    },
+    {
+      "key": "csp_Yiso",
+      "name": "搜索03｜易搜　　　",
+      "type": 3,
+      "api": "csp_Yiso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
     {
       "key": "小湿妹源",
@@ -1071,7 +1339,7 @@
       "url": "Sequence"
     },
     {
-      "name": "keyu",
+      "name": "极速",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
       "ext": {
