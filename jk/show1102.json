@@ -1054,7 +1054,7 @@
     },
     {
       "key": "速度资源",
-      "name": "速度资源",
+      "name": "      ",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 0,
