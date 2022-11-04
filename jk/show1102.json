@@ -15,8 +15,17 @@
   ],
   "sites": [
     {
+      "key": "title",
+      "name": "💯 公众号：放学回家看电容！",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
       "key": "mtv_pc_酷云七七",
-      "name": "💯 机哥分享！",
+      "name": "默认页｜酷云七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
