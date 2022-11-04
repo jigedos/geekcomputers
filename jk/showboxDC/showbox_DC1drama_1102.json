@@ -23,7 +23,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        {
+    {
       "key": "MOVIE",
       "name": "■■■■ 影   视 ■■■■",
       "type": 3,
@@ -32,7 +32,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-     {
+    {
       "key": "mtv_pc_酷云七七",
       "name": "默认页｜酷云七七",
       "type": 3,
@@ -340,7 +340,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
     {
       "key": "netdisk",
       "name": "■■■■ 网  盘 ■■■■",
