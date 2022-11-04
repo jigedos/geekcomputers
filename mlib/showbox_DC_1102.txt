@@ -6,7 +6,7 @@
     },
     {
       "sourceName": "１号　　🎁影视",
-      "sourceUrl": https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/showbox_DC1drama_1102.txt"
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/showbox_DC1drama_1102.txt"
     },
     {
       "sourceName": "２号　　🎁体育",
