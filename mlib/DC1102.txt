@@ -1,0 +1,40 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "💯【放学回家看电视】",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/1YS.txt"
+    },
+    {
+      "sourceName": "１号　　🎁影视",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/1YS.txt"
+    },
+    {
+      "sourceName": "２号　　🎁体育",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/2TY.txt"
+    },
+    {
+      "sourceName": "３号　　🎁音乐",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/3YY.txt"
+    },
+     {
+      "sourceName": "４号　　🎁娱乐",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/4YL.txt"
+    },
+    {
+      "sourceName": "５号　　🎁哔哩",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/5BL.txt"
+    },
+    {
+      "sourceName": "６号　　🎁学习",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/6XX.txt"
+    },
+     {
+      "sourceName": "７号　　🎁动漫",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/7DM.txt"
+    },
+    {
+      "sourceName": "８号　　🎁特色",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/8TS.txt"
+    }
+  ]
+}
