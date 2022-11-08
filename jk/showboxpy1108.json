@@ -15,14 +15,33 @@
   ],
   "sites": [
     {
-      "key": "title",
-      "name": "💯 💥💫🎸🎬🎞️🔭🎙️📚📙📖🌼☘️🍀🌷🍑🍎🍋🍇🍒🍓公众号：放学回家看电视！",
+      "key": "title1",
+      "name": "💯公众号：放学回家看电视！",
       "type": 3,
       "api": "0",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+     {
+      "key": "title2",
+      "name": "🎬　影视专区　🎬",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+         {
+      "key": "title3",
+      "name": "💥　２３站点　💥",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
      {
       "key": "mtv_pc_酷云七七",
       "name": "默认页｜酷云七七",
@@ -254,6 +273,33 @@
       "filterable": 1,
       "ext": "http://js.66app.me/api.php/app/"
     },
+     {
+      "key": "gf1",
+      "name": "💯公众号：放学回家看电视！",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "gf2",
+      "name": "🎞️　官源专区　🎞️",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "gf3",
+      "name": "☘　６站点　　☘",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "mtv_pc_奇艺视频",
       "name": "官方01｜奇艺视频",
@@ -331,14 +377,32 @@
       "quickSearch": 1,
       "filterable": 1
     },
+   {
+      "key": "sports1",
+      "name": "💯公众号：放学回家看电视！",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "sports",
-      "name": "■■■■ 体   育 ■■■■",
+      "name": "🏀　体育专区　 🏀",
       "type": 3,
       "api": "",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+     {
+      "key": "sports3",
+      "name": "🍋　６站点　　🍋",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "体育",
@@ -402,14 +466,33 @@
       "filterable": 0,
       "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/球迷直播.json"
     },
+   
     {
-      "key": "music",
-      "name": "■■■■ 音  乐 ■■■■",
+      "key": "music1",
+      "name": "💯公众号：放学回家看电视！",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "music2",
+      "name": "🎸　 音乐专区　 🎸",
       "type": 3,
       "api": "",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+        {
+      "key": "music3",
+      "name": "🍇　７站点　🍇",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "MV",
@@ -481,9 +564,27 @@
       "filterable": 0,
       "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/酷狗视频.json"
     },
+  {
+      "key": "entertainment1",
+      "name": "💯公众号：放学回家看电视！",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
-      "key": "entertainment",
-      "name": "■■■■ 娱  乐 ■■■■",
+      "key": "entertainment2",
+      "name": "🎁　 娱 乐专区　🎁",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+         {
+      "key": "entertainment3",
+      "name": "🍓　 ９站点　 🍓",
       "type": 3,
       "api": "",
       "searchable": 0,
@@ -582,14 +683,33 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/戏曲.txt"
     },
+    
+      {
+      "key": "entertainment1",
+      "name": "💯公众号：放学回家看电视！",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "bilibbili",
-      "name": "■■■■ B  站 ■■■■",
+      "name": "🅱️　 B站专区　🅱️",
       "type": 3,
       "api": "",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+      {
+      "key": "entertainment1",
+      "name": "🍓　７站点　　🍓",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_Bili合集",
@@ -662,14 +782,32 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/哔哩哔哩.json"
     },
+          {
+      "key": "study1",
+      "name": "💯公众号：放学回家看电视！",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
-      "key": "study",
-      "name": "■■■■ 学  习 ■■■■",
+      "key": "study2",
+      "name": "📚　学习专区　📚",
       "type": 3,
       "api": "",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+          {
+      "key": "study3",
+      "name": "🍑　４站点　　🍑",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "学堂",
@@ -712,14 +850,32 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/软件教程.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/bili.jar"
     },
+              {
+      "key": "cartoon1",
+      "name": "💯公众号：放学回家看电视！",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
-      "key": "cartoon",
-      "name": "■■■■ 动  漫 ■■■■",
+      "key": "cartoon2",
+      "name": "🎠　 动 漫专区　🎠",
       "type": 3,
       "api": "",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+              {
+      "key": "cartoon3",
+      "name": "🍅　５站点　　🍅",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "mtv_xp_动漫直链",
@@ -771,14 +927,32 @@
       "filterable": 0,
       "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/去看动漫.json"
     },
+                  {
+      "key": "ts1",
+      "name": "💯公众号：放学回家看电视！",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
-      "key": "ts",
-      "name": "■■■■ 特  色 ■■■■",
+      "key": "ts2",
+      "name": "🎡　特色　🎡",
       "type": 3,
       "api": "",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+                  {
+      "key": "ts3",
+      "name": "🍉　２０站点　🍉",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "mtv_pc_剧荒影院",
