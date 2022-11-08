@@ -273,6 +273,15 @@
       "filterable": 1,
       "ext": "http://js.66app.me/api.php/app/"
     },
+         {
+      "key": "kb1",
+      "name": "",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
      {
       "key": "gf1",
       "name": "💯公众号：放学回家看电视！",
@@ -564,6 +573,24 @@
       "filterable": 0,
       "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/酷狗视频.json"
     },
+             {
+      "key": "kb2",
+      "name": "",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+             {
+      "key": "kb3",
+      "name": "",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
   {
       "key": "entertainment1",
       "name": "💯公众号：放学回家看电视！",
@@ -685,7 +712,7 @@
     },
     
       {
-      "key": "entertainment1",
+      "key": "bilibbili1",
       "name": "💯公众号：放学回家看电视！",
       "type": 3,
       "api": "0",
@@ -694,7 +721,7 @@
       "filterable": 1
     },
     {
-      "key": "bilibbili",
+      "key": "bilibbili2",
       "name": "🅱️　 B站专区　🅱️",
       "type": 3,
       "api": "",
@@ -703,7 +730,7 @@
       "filterable": 0
     },
       {
-      "key": "entertainment1",
+      "key": "bilibbili3",
       "name": "🍓　７站点　　🍓",
       "type": 3,
       "api": "0",
@@ -782,6 +809,24 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/哔哩哔哩.json"
     },
+                 {
+      "key": "kb4",
+      "name": "",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+                 {
+      "key": "kb5",
+      "name": "",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
           {
       "key": "study1",
       "name": "💯公众号：放学回家看电视！",
@@ -849,6 +894,24 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/软件教程.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/bili.jar"
+    },
+                 {
+      "key": "kb6",
+      "name": "",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+                 {
+      "key": "kb7",
+      "name": "",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
               {
       "key": "cartoon1",
@@ -926,6 +989,15 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/去看动漫.json"
+    },
+                 {
+      "key": "kb8",
+      "name": "",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
                   {
       "key": "ts1",
@@ -1167,15 +1239,25 @@
       "filterable": 1,
       "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/凌云韩国.json"
     },
-    {
-      "key": "netdisk",
-      "name": "■■■■ 网  盘 ■■■■",
+                 {
+      "key": "kb9",
+      "name": "",
       "type": 3,
-      "api": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
+                 {
+      "key": "kb10",
+      "name": "",
+      "type": 3,
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+  
     {
       "key": "csp_alist",
       "name": "网盘01｜Alist合集",
@@ -1196,15 +1278,16 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Alist.json"
     },
-    {
-      "key": "search",
-      "name": "■■■■ 搜  索 ■■■■",
+                 {
+      "key": "kb11",
+      "name": "",
       "type": 3,
-      "api": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
+  
     {
       "key": "AliPS",
       "name": "搜索01｜盘搜　　　",
