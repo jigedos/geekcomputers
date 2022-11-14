@@ -93,16 +93,7 @@
       "filterable": 0,
       "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/在线之家.json"
     },
-    {
-      "key": "mtv_pc_图图影视",
-      "name": "影视07｜图图影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"
-    },
+   
     {
       "key": "mtv_pc_追剧达人",
       "name": "影视08｜追剧达人",
@@ -113,26 +104,7 @@
       "filterable": 1,
       "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"
     },
-    {
-      "key": "mtv_pc_厂长影视",
-      "name": "影视09｜厂长资源",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"
-    },
-    {
-      "key": "mtv_xp_厂长影视",
-      "name": "影视10｜厂长影视",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/厂长影视.json"
-    },
+  
     {
       "key": "mtv_xp_厂长直链",
       "name": "影视11｜厂长直链",
@@ -174,16 +146,7 @@
       "filterable": 0,
       "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/金眼影视.json"
     },
-    {
-      "key": "mtv_xp_不卡影院",
-      "name": "影视15｜不卡影院",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/不卡影院.json"
-    },
+  
     {
       "key": "mtv_xp_剧白影视",
       "name": "影视16｜剧白影视",
@@ -214,16 +177,7 @@
       "filterable": 0,
       "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/花猫影视.json"
     },
-    {
-      "key": "mtv_xp_凌云影视",
-      "name": "影视19｜凌云影视",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/凌云影视.json"
-    },
+ 
     {
       "key": "mtv_xp_奇优影院",
       "name": "影视20｜奇优影院",
@@ -263,15 +217,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "mtv_pc_腾讯视频",
-      "name": "官方02｜腾讯视频",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "mtv_pc_芒果视频",
       "name": "官方03｜芒果视频",
@@ -312,16 +258,7 @@
         "奇幻片"
       ]
     },
-    {
-      "key": "csp_QQ",
-      "name": "官方05｜腾讯视频(备)",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/qq_qiyi_mgtv.jpg"
-    },
+   
     {
       "key": "mtv_pc_360影视",
       "name": "官方06｜360影视",
@@ -500,16 +437,7 @@
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/分享短视频.json"
     },
-    {
-      "key": "csp_Yj1211",
-      "name": "️娱乐02｜直播合集　",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/all.jar"
-    },
+   
     {
       "key": "csp_Bili热舞",
       "name": "娱乐03｜女团热舞　",
@@ -542,16 +470,7 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/douyu.json",
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/XYQBiu_0907.jar"
     },
-    {
-      "key": "csp_xbb_斗鱼",
-      "name": "娱乐06｜斗鱼直播2",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/斗鱼.json"
-    },
+   
     {
       "key": "csp_Bili相声",
       "name": "娱乐07｜相声小品　",
@@ -1223,11 +1142,7 @@
       "type": 0,
       "url": "https://okjx.cc/?url="
     },
-    {
-      "name": "线路6",
-      "type": 1,
-      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
-    },
+   
     {
       "name": "线路7",
       "type": 0,
@@ -1368,7 +1283,7 @@
       "url": "https://okjx.cc/?url="
     },
     {
-      "name": "ZNJSON解析",
+      "name": "[非凡工具箱]",
       "type": 1,
       "url": "https://svip.znjson.com/api/?key=gX8j9IPvoQ5mFmlIzu&url="
     },
