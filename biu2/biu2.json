@@ -1,7 +1,7 @@
 {
 "Home": [
-{"key":"网页","title":"网页资源（观影/听书）","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu2/01.png"},
-{"key":"APP","title":"视频应用资源","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu2/02.png"},
+{"key":"网页","title":"网页资源（观影/听书）","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu2/02.png"},
+{"key":"APP","title":"视频应用资源","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu2/01.png"},
 {"key":"采集","title":"采集站资源","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu2/03.png"},
 {"key":"直播","title":"电视频道","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu2/04.png"},
 {"key":"历史","title":"播放记录","pic":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu2/05.png"},
@@ -26,7 +26,7 @@
 {
 "key": "自选网页",
 "title": "DJ音乐",
-"pic": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu2/12.png",
+"pic": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu2/12.jpg",
 "custom": "ewoibmFtZSI6ICJESumfs+S5kCIsCiJ1cmwiOiAiaHR0cDovL3d3dy5kanV1LmNvbSIsCiJVc2VyIjogIuepuiIsCiLmmK/lkKborrDlvZXljoblj7IiOiAiMSIsCiLnm7TmjqXmkq3mlL4iOiAiMSIsCiLmqKrlm77mmL7npLoiOiAiMCIsCiLliJfooajmmL7npLoiOiAiMSIsCiJmZW5sZWkiOiAi54Ot5pKtJC9zZWFyY2g/bXVzaWNuYW1lPeeDreaSrSZsaXN0PTImY2lkPTAmcGFnZT0j5oqW6Z+z54Ot6ZeoJC9zZWFyY2g/bXVzaWNuYW1lPSVFNiU4QSU5NiVFOSU5RiVCMyZsaXN0PTImY2lkPTAmcGFnZT0j57uP5YW45peL5b6LJC9zZWFyY2g/bXVzaWNuYW1lPee7j+WFuOaXi+W+iyZsaXN0PTImY2lkPTAmcGFnZT0j6L+q6auY5Liy54OnJC9kamxpc3QvMV8j5ZaK6bqm5Liy54OnJC9kamxpc3QvMTJfI+S4reaWh+S4sueDpyQvZGpsaXN0LzEzXyPlpJbor63kuLLng6ckL2RqbGlzdC8xNF8j5Lit6Iux5Liy54OnJC9kamxpc3QvOTZfI+aFouaRh+S4sueDpyQvZGpsaXN0LzJfI+WWium6puS4sueDpyQvZGpsaXN0LzE1XyNFbGVjdHJvJC9kamxpc3QvMjJfI1Byb2dIb3VzZSQvZGpsaXN0LzI2XyNGdW5reUhvdXNlJC9kamxpc3QvOTlfI+WWium6puabtOWkmiQvZGpsaXN0LzI3XyPmhaLmkYfkuK3mlofkuLLng6ckL2RqbGlzdC8xNl8j5oWi5q2M5Liy54OnJC9kamxpc3QvM18j5Lit5paHUmVtaXgkL2RqbGlzdC80XyPlpJbmlodSZW1peCQvZGpsaXN0LzVfI+i2iuWNl+m8kyQvZGpsaXN0LzZfI+mFkuWQp+mjjuagvCQvZGpsaXN0LzdfI01hc2h1cCQvZGpsaXN0LzhfI+S4reaWh0RJU0NPJC9kamxpc3QvOV8j5aSW5paHRElTQ08kL2RqbGlzdC8xMF8j5Lqk6LCK6Iie5puyJC9kamxpc3QvMTFfIiwKImhvdXpodWkiOiAiLmh0bWwiLAoicWlzaGl5ZSI6ICIxIiwKInNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImppZXF1cWlhbiI6ICLnqboiLAoiamllcXVob3UiOiAi56m6IiwKImppZXF1c2h1enVxaWFuIjogImNsYXNzPVwiaXNnb29kX2xpc3RcIj4iLAoiamllcXVzaHV6dWhvdSI6ICI8L3RkPiIsCiJ0dXBpYW5xaWFuIjogImltZyBzcmM9XCIiLAoidHVwaWFuaG91IjogIlwiIiwKInR1cGlhbnFpYW56aHVpIjogImh0dHA6IiwKImZ1Ymlhb3RpcWlhbiI6ICJjbGFzcz1cInNjXzFcIj5USU1FIiwKImZ1Ymlhb3RpaG91IjogIjwvc3Bhbj4iLAoibGlhbmppZXFpYW4iOiAiaHJlZj1cIiIsCiJsaWFuamllaG91IjogIlwiIiwKImxqcWlhbnpodWkiOiAi56m6IiwKImJpYW90aXFpYW4iOiAidGl0bGU9XCIiLAoiYmlhb3RpaG91IjogIlwiIgp9"},
 {"key": "自选网页",
 "title": "jrs直播",
