@@ -19,7 +19,7 @@
     
      {
       "sourceName": "３号　　🎁酱油仓库",
-      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib3.tx"
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib3.txt"
     },
     
      {
