@@ -42,19 +42,19 @@
     },
       {
             "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "９　　🍊云星家庭"
+            "name": "９　　　　🍊云星家庭"
         },
         {
             "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
-            "name": "１０　　🍉云星哔哩"
+            "name": "１０　　　　🍉云星哔哩"
         },
         {
             "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "１１　　🍋云星阿里"
+            "name": "１１　　　　🍋云星阿里"
         },
           {
             "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "１２　　🍑巧技"
+            "name": "１２　　　　🍑巧技　　"
         }
   ]
 }
