@@ -25,10 +25,6 @@
      {
       "sourceName": "４号　　🎁测试仓库",
       "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib4.txt"
-    },
-    {"sourceName":"💚多多极速仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/1.txt"},
-{"sourceName":"💛多多缓冲仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/2.txt"},
-{"sourceName":"❤️多多大佬仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
-{"sourceName":"🥕多多预备仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/4.txt"}
+    }
   ]
 }
