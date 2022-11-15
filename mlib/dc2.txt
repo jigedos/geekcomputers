@@ -1,24 +1,27 @@
 {
-  "storeHouse": [
+  "urls": [
     {
-      "sourceName": "💯公众号【放学回家看电视】",
-      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib1.txt"
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib1.txt",
+      "name": "💯【放学回家看电视】"
     },
-    {
-      "sourceName": "１号　　🎁优选接口",
-      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib1.txt"
+    
+       {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib1.txt",
+      "name": "１号　　🎁优选接口"
     },
+    
+       {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib2.txt",
+      "name": "２号　　🎁次选接口"
+    }, 
     {
-      "sourceName": "２号　　🎁次选接口",
-      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib2.txt"
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib3.txt",
+      "name": "３号　　🎁酱油仓库"
     },
+
     {
-      "sourceName": "３号　　🎁酱油仓库",
-      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib3.txt"
-    },
-    {
-      "sourceName": "４号　　🎁测试仓库",
-      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib4.txt"
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib4.txt",
+      "name": "４号　　🎁测试仓库"
     }
   ]
 }
