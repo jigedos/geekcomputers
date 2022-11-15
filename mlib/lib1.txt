@@ -54,6 +54,6 @@
           {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "１２　　🍑巧技"
-        },
+        }
   ]
 }
