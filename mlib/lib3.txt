@@ -1,36 +1,29 @@
 {
   "urls": [
-   
-             {
-            "url": "http://byyds.top/w.txt",
-            "name": "１　　♈BYYDS线路"
-        },
-        {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "２　　♋分享者线路"
-        },
-
-      
- {
-            "url": "http://101.34.67.237/config/3",
-            "name": "３　　♑道长T4"
-        },
-
-        {
-            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-            "name": "４　　♈甜蜜"
-        },
- 
-        {
-            "url": "http://dxawi.github.io/0/0.json",
-            "name": "５　　♉dxawi0"
-        }
-      
-        {
-            "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
-            "name": "６　　♊公益"
-        }, 
-        
+    {
+      "url": "http://byyds.top/w.txt",
+      "name": "１　　♈BYYDS线路"
+    },
+    {
+      "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+      "name": "２　　♋分享者线路"
+    },
+    {
+      "url": "http://101.34.67.237/config/3",
+      "name": "３　　♑道长T4"
+    },
+    {
+      "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+      "name": "４　　♈甜蜜"
+    },
+    {
+      "url": "http://dxawi.github.io/0/0.json",
+      "name": "５　　♉dxawi0"
+    },
+    {
+      "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
+      "name": "６　　♊公益"
+    },
     {
       "url": "http://111.67.196.181/mtv/270.txt",
       "name": "７　　　♌【270】　　"
