@@ -7,7 +7,7 @@
     
     
        {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/show923.json",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/showboxP1102.json",
       "name": "默认　　　🍋ShowBox"
     },
     
