@@ -1,0 +1,67 @@
+//此多仓接口列表为公众号【应用多多】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+//转载请注明出处，做人做事要凭良心
+//更新时间：2022/11/11 15:40
+{
+    "urls": [
+        {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": " 🔔请点击选择下方线路"
+        },
+        {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "🏡应用多多家庭版"
+        },
+        {
+            "url": "http://101.34.67.237/config/3",
+            "name": "💎道长T4线路"
+        },
+        {
+            "url": "https://hutool.ml/tang",
+            "name": "💎唐三线路"
+        },
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "name": "💎甜蜜线路"
+        },
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "💎霜辉月明py"
+        },
+        {
+            "url": "http://drpy.site/js1",
+            "name": "💎小雅DR线路"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "💎菜妮丝xBPQ"
+        },
+        {
+            "url": "http://dxawi.github.io/0/0.json",
+            "name": "💎dxawi0线路"
+        },
+        {
+            "url": "http://dxawi.github.io/0/1.json",
+            "name": "💎dxawi1线路"
+        },
+        {
+            "url": "https://raw.iqiq.io/tv-player/tvbox-line/main/tv/fj.json",
+            "name": "💎一影视线路"
+        },
+        {
+            "url": "https://raw.iqiq.io/chengxueli818913/maoTV/main/33.txt",
+            "name": "💎佰欣园线路"
+        },
+        {
+            "url": "https://raw.iqiq.io.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "name": "💎FreeTV线路"
+        },
+        {
+            "url": "https://raw.iqiq.io.com/2hacc/TVBox/main/tvbox",
+            "name": "💎二哈线路"
+        },
+        {
+            "url": "https://raw.iqiq.io.com/chengxueli818913/TVBox/main/sc.json",
+            "name": "💎chengxueli线路"
+        }
+    ]
+}

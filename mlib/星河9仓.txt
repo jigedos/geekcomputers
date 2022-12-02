@@ -1,0 +1,180 @@
+﻿
+
+{
+    "urls": [
+        {
+            "url": "",
+            "name": "🐙公众号【星河软件园】整理🐙"
+        },
+{
+            "url": "https://pan.css.lc/api/v3/file/get/90037/%E5%9B%9E%E5%AE%B6.txt?sign=zKHdix8x8hJE39v4zV8K0es4tYyoRaBOcFvjbghv7vE%3D%3A0",
+            "name": "🐙美剧🐢网盘🐙"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🐙太阳🐢无敌🐙"
+        },
+        {
+            "url": "http://byyds.top/w.txt",
+            "name": "🐙热舞🐢乐猪🐙"
+        },
+        {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "🐙石榴🐢学习🐙"
+        },
+        {
+            "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+            "name": "🐙酷猫🐢低端🐙"
+        },                
+        {
+            "url": "https://ju.binghe.ga/4.txt",
+            "name": "🐙冰河🐢世界🐙"
+        },        
+        {
+            "url": "http://101.34.67.237/config/3",
+            "name": "🐙道长🐢无敌🐙"
+        },
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "name": "🐙甜蜜🐢SP🐙"
+        },                      
+        {
+            "url": "http://dxawi.github.io/0/0.json",
+            "name": "🐙动漫🐢泥巴🐙"
+        },    
+        {
+            "url": "http://0317.atwebpages.com/wp-content/uploads/2022/11/tvbox.txt",
+            "name": "🐙蓝光🐢剧荒🐙"
+        },
+        {
+            "url": "http://111.67.196.181/mtv/270.txt",
+            "name": "🐙爬虫🐢美剧🐙"
+        },
+        {
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "🐙神马🐢多多🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/eib3.json",
+            "name": "🐙盘搜🐢资源🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/kcel.json",
+            "name": "🐙奥特🐢纸条🐙"
+        },                
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json",
+            "name": "🐙农民🐢TT🐙"
+        },        
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
+            "name": "🐙独播🐢美视🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/1pw8.json",
+            "name": "🐙DR🐢PY🐙"
+        },                      
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json",
+            "name": "🐙蓝光🐢胖虎🐙"
+        },   
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/g6qm.json",
+            "name": "🐙饭团🐢星空🐙"
+        },       
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/7l7n.json",
+            "name": "🐙学习🐢盘搜🐙"
+        },   
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ns66.json",
+            "name": "🐙干饭🐢无敌🐙"
+        },           
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/5tbo.json",
+            "name": "🐙群鑫🐢影视🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fzns.json",
+            "name": "🐙宝仙🐢云修🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pb9c.json",
+            "name": "🐙乐猪🐢影视🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/gv97.json",
+            "name": "🐙蓝光🐢维奇🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/cks2K01.txt",
+            "name": "🐙万能🐢蓝光🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/65yp.json",
+            "name": "🐙美剧🐢海外🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/tvtk.json",
+            "name": "🐙小宝🐢特狗🐙"
+        },
+{
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "🐙宝盒🐢图图🐙"
+        },
+        {
+            "url": "https://try.gitea.io/xcxc8/mytv/raw/branch/main/屁yan",
+            "name": "🐙网易🐢直播🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "name": "🐙飘零🐢龙腾🐙"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🐙番茄🐢干饭🐙"
+        },
+        {
+            "url": "https://agit.ai/nohe2001/TVBox/raw/branch/TVBox/qj0715.json ",
+            "name": "🐙纸条🐢图图🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "name": "🐙畅视🐢樱花🐙"
+        },
+        {
+            "url": "https://agit.ai/guozu616/TVbox/raw/branch/main/config.json",
+            "name": "🐙追剧🐢樱花🐙"
+        },
+        {
+            "url": "https://agit.ai/z8126343/TVBox/raw/branch/master/xyh.json",
+            "name": "🐙骚火🐢六度🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/2czs.json",
+            "name": "🐙欧乐🐢樱花🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/cksT3.txt",
+            "name": "🐙哔哩🐢神马🐙"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyniu.txt",
+            "name": "🐙猫咪🐢影视🐙"
+        },
+        {
+            "url": "http://101.34.67.237/config/2",
+            "name": "🐙小贝🐢多漫🐙"
+        },
+        {
+            "url": "http://miaotvs.cn/osc",
+            "name": "🐙瓜皮🐢奇优🐙"
+        }  
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}
