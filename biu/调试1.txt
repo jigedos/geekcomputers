@@ -137,6 +137,8 @@
 {"name":"2号币(神马)","url":"http://phoebe.cf/api.php/iptv/vod/"}
 ],
  "zhujiexi":[ 
+ {"name":"酷云","url":"http://101.34.67.237:5705/parse/api/酷云.js?url="},
+{"name":"chaoli","url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="}, 
  {"name":"刘兵","url":"http://newjiexi.gotka.top/keyu3.php?url="},
 {"name":"云you","url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
 {"name":"ckflv","url":"http://api.ckflv.cn/?url="},
@@ -163,6 +165,12 @@
 {"name":"dyg","url":"http://101.34.67.237:5705/parse/api/dyg.js?url="}, 
 {"name":"江湖2","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}], 
  "beiyongjiexi": [
+ {"name":"备解14","url":"https://go.yh0523.cn/y.cy?url="},
+{"name":"备解15","url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"解析","url":"https://bd.jx.cn/vip/?url="}, 
+{"name":"解析","url":"https://z1.m1907.cn/?jx="}, 
+{"name":"解析","url":"https://vip.2ktvb.com/player/?url="}, 
+{"name":"解析","url":"https://nbjx.vip/?url="}, 
 {"name":"解析1","url":"https://nbjx.vip/?url="}, 
 {"name":"解析2","url":"https://jx.blbo.cc:4433/?url="}, 
 {"name":"解析3","url":"https://www.nxflv.com/?url="}, 
