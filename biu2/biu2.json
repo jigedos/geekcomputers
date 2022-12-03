@@ -91,9 +91,9 @@
     }
   ],
   "zhuyejiekou": [
-    {
+  {
       "name": "【非凡工具箱】",
-      "url": "https://www.idianying.com.cn/mogai_api.php/v1.vod"
+      "url": "https://www.jiajia.pub/api.php/v1.vod"
     },
     {
       "name": "段友影视",
@@ -104,39 +104,36 @@
       "url": "http://app.wnvod.net/lvdou_api.php/v1.vod"
     },
     {
-      "name": "🚀爱酷影院",
+      "name": "爱酷影院",
       "url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
     },
     {
-      "name": "🚀万能影院（跑马灯切片自测）",
+      "name": "万能影院",
       "url": "http://app.wnvod.net/lvdou_api.php/v1.vod"
     },
     {
-      "name": "🚀创意影院",
+      "name": "创意影院",
       "url": "https://www.30dian.cn/api.php/v1.vod"
     },
     {
-      "name": "🚀段-友影院",
+      "name": "段友影院",
       "url": "http://js.66app.me/api.php/app/"
     },
+  
     {
-      "name": "🚀佳佳影院",
-      "url": "https://www.jiajia.pub/api.php/v1.vod"
-    },
-    {
-      "name": "🚀群鑫影院",
+      "name": "群鑫影院",
       "url": "http://www.qunxinys.com/api.php/v1.vod"
     },
     {
-      "name": "🚀全球星",
+      "name": "全球星",
       "url": "http://www.mzok.cn/api.php/v1.vod"
     },
     {
-      "name": "🚀夕阳影院",
+      "name": "夕阳影院",
       "url": "http://cms.seo-tv.work/mogai_api.php/v1.vod"
     },
     {
-      "name": "🚀豆芽视频",
+      "name": "豆芽视频",
       "url": "http://bdintv.cn/lvdou_api.php/v1.vod"
     }
   ],
