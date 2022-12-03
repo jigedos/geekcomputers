@@ -42,7 +42,7 @@
     }
   ],
   "zhuyejiekou": [
- {
+    {
       "name": "公众号【非凡工具箱】",
       "url": "https://www.30dian.cn/api.php/v1.vod"
     },
@@ -50,42 +50,123 @@
       "name": "创意影视",
       "url": "http://www.30dian.cn/api.php/v1.vod"
     },
-  
-
     {
       "name": "冷视TV",
       "url": "https://len.tv/api.php/v1.vod"
     },
-
     {
       "name": "萌蛋蛋",
       "url": "http://app.mengdandan.com/xgapp.php/v1/"
     }
-   
-   
-   
   ],
   "caijizhan": [
     {
       "name": "公众号【非凡工具箱】",
       "url": "http://api.kunyu77.com/api.php"
     },
-   
-  
     {
       "name": "星海资源(切)",
       "url": "https://www.xhzy01.com/api.php"
     },
-   
     {
       "name": "1080资源库(切)",
       "url": "https://api.1080zyku.com/inc/api_mac10.php"
     },
-    
-        
     {
       "name": "ASMR(优)",
       "url": "http://www.asmr19.in/api.php"
+    },
+    {
+      "name": "佳丽 TV",
+      "url": "https://jialiapi.com/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "小黄瓜资源",
+      "url": "http://cj.xhgcjym.com/inc/api.php"
+    },
+    {
+      "name": "8090资源网",
+      "url": "http://zy.yilans.net/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "热热资源",
+      "url": "http://api.rereapi.com/inc/api.php"
+    },
+    {
+      "name": "环亚资源",
+      "url": "http://wmcj8.com/inc/sapi.php"
+    },
+    {
+      "name": "辣椒资源",
+      "url": "http://api.11bat.com/mac10.php"
+    },
+    {
+      "name": "大地资源",
+      "url": "https://dadiapi.com/api.php"
+    },
+    {
+      "name": "83特殊.xxoo",
+      "url": "https://www.xxohub3.com/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "IXX 资源",
+      "url": "http://api.iixxzyapi.com/inc/api.php"
+    },
+    {
+      "name": "快活资源站",
+      "url": "https://www.khzyapi.com/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "90特殊.三合资源",
+      "url": "https://www.3heyingshi.com/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "93特殊.玉米资源",
+      "url": "http://api.cj644.com/inc/zyapimac.php"
+    },
+    {
+      "name": "91特殊.大炮资源",
+      "url": "http://dgdy.me/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "76特殊.色色",
+      "url": "http://m.7777688.com/inc/api.php"
+    },
+    {
+      "name": "78特殊.乐播",
+      "url": "https://lbapi9.com/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "79特殊.苍天",
+      "url": "http://cj.cangtiancj.com/api.php/Seacms/vod/"
+    },
+    {
+      "name": "80特殊.云霸资源",
+      "url": "http://cj.1234567bt.com/inc/ldg_sea.php"
+    },
+    {
+      "name": "84特殊.鲨鱼资源",
+      "url": "https://shayuapi.com/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "86特殊.七七资源",
+      "url": "https://www.77zyw.xyz/inc/api.php"
+    },
+    {
+      "name": "92特殊.独家资源",
+      "url": "http://dujiazy3.com/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "95特殊.35资源",
+      "url": "http://cj.35zycj.com/inc/zyapimac.php"
+    },
+    {
+      "name": "96特殊.av88资源",
+      "url": "http://m.7777688.com/inc/api.php"
+    },
+    {
+      "name": "77资源",
+      "url": "https://www.77zyw.xyz/inc/seacmsapi.php"
     }
   ],
   "zhujiexi": [
@@ -457,7 +538,6 @@
       "bflianjieqian": "href=\"",
       "bflianjiehou": "\""
     },
-   
     {
       "name": "蓝光影视",
       "url": "https://www.lgyy.cc/",
@@ -517,7 +597,6 @@
       "bflianjieqian": "href=\"",
       "bflianjiehou": "\""
     },
-   
     {
       "name": "B 1080Kkk",
       "url": "https://www.1080kkk.com",
@@ -813,8 +892,6 @@
       "bflianjieqian": "href=\"",
       "bflianjiehou": "\""
     },
-  
-   
     {
       "name": "全网直播(注意时间)",
       "url": "https://www.zhibo8.net",
@@ -938,8 +1015,6 @@
       "fubiaotiqian": "\"ownerName\":\"",
       "fubiaotihou": "\""
     },
-  
-  
     {
       "author": "20220611",
       "name": "斗鱼",
@@ -1002,8 +1077,6 @@
       "bflianjieqian": "rid=",
       "bflianjiehou": "\""
     },
-   
-   
     {
       "author": "20220530",
       "name": "维奇动漫",
@@ -1065,9 +1138,6 @@
       "bflianjieqian": "href=\"",
       "bflianjiehou": "\""
     },
-    
-    
-    
     {
       "name": "剧白白-蓝光",
       "url": "https://www.jubaibai.cc",
@@ -1128,8 +1198,6 @@
       "bflianjieqian": "href=\"",
       "bflianjiehou": "\""
     },
-    
-    
     {
       "name": "348电影网",
       "url": "https://www.348z.com",
@@ -1190,10 +1258,6 @@
       "bflianjieqian": "href=\"",
       "bflianjiehou": "\""
     },
-    
-  
-   
-   
     {
       "name": "思乐影视",
       "url": "https://www.4ltv.com",
@@ -1254,8 +1318,6 @@
       "bflianjieqian": "href=\"",
       "bflianjiehou": "\""
     },
-  
-  
     {
       "name": "鸭奈飞",
       "url": "https://yanetflix.com/",
