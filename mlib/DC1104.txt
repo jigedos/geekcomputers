@@ -35,6 +35,10 @@
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/7DM.txt",
       "name": "７号　　🎁动漫"
     },
+      {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/LIB7.txt",
+        "name": "0号　　🎁测试"
+    },
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/8TS.txt",
       "name": "８号　　🎁特色"
