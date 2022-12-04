@@ -28,7 +28,7 @@
     },
         {
       "sourceName": "５号　　🎁直播仓库",
-      "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/LIVE.txt"
+      "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/LIVE2.txt"
     },
     
       {
