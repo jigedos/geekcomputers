@@ -55,10 +55,6 @@
           {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "１２　　　　🍑巧技　　"
-        },
-          {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/LIVE2.txt",
-            "name": "１３　　　　🍑直播仓　　"
         }
         
   ]
