@@ -1,0 +1,98 @@
+{
+    "urls": [
+
+        {
+            "url": "https://la.kstore.space/download/3092/dd.json",
+            "name": "【非凡工具箱】"
+        },
+  
+        {
+            "url": "http://www.dmtv.ml/mao/mao.php?type=single",
+            "name": "XP合集"
+        },
+     
+   
+
+
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "BOX2"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0 ",
+            "name": "BILI全集"
+        },
+        {
+            "url": "https://files.catbox.moe/pqpbqx.txt",
+            "name": "PQPB"
+        },
+        {
+            "url": "http://111.67.196.181/mtv/meow.txt",
+            "name": "meow"
+        },
+        {
+            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
+            "name": "ZZZ"
+        },
+
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg  ",
+            "name": "SP合集"
+        },
+
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "潇洒"
+        },
+
+ 
+        {
+            "url": "http://dxawi.github.io/0/0.json",
+            "name": "爬虫解析"
+        },
+
+        {
+            "url": "https://out.zxglife.top/down.php/05ad8a16e71ebb56b4ff3d719ab3963f.txt&zn777",
+            "name": "777"
+        },
+ 
+
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "吾爱"
+        },
+        {
+            "url": "https://0a.fit/X000",
+            "name": "分享者"
+        },
+     
+        {
+            "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
+            "name": "yosakoi"
+        },
+
+        {
+            "url": "https://raw.fastgit.org/liu673cn/box/main/m.json",
+            "name": "m"
+        },
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "小苹果"
+        },
+
+        {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/美食.txt",
+            "name": "美食"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/commit/594f59504412e4ea234d9091dc86a5e0390a80eb/00/999.m3u8",
+            "name": "999"
+        },
+
+        {
+            "url": "https://raw.githubusercontent.com/chengxueli818913/TVBox/main/sc.json",
+            "name": "SC"
+        }
+      
+    ]
+}
