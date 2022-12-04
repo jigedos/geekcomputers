@@ -42,17 +42,7 @@
       "filterable": 1,
       "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"
     },
-    {
-      "key": "mtv_xp_极品影视",
-      "name": "影视02｜极品影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar",
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/极品影视.json"
-    },
+  
     {
       "key": "mtv_xp_饭团影院",
       "name": "影视03｜饭团影院",
