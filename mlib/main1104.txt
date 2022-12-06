@@ -29,12 +29,6 @@
         {
       "sourceName": "５号　　🎁GITHUB仓库",
       "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/LIB6.txt"
-    },
-
-  
-       {
-      "sourceName": "７号　　🎁ＢＯＸ仓库",
-      "sourceUrl": "https://agit.ai/pinghui/Barton/raw/branch/master/%e6%98%9f%e6%b2%b3%e6%80%bb%e4%bb%93.txt"
     }
   ]
 }
