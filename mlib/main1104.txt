@@ -28,7 +28,7 @@
     },
         {
       "sourceName": "５号　　🎁GITHUB仓库",
-      "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/LIB6.txt"
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/LIB6.txt"
     }
   ]
 }
