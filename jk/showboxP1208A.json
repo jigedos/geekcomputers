@@ -52,7 +52,7 @@
 {"key":"Czsapp","name":"影视09｜厂长影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/769/ts.jar?sign=JNmzvCS9h6tbHMesMLeRUswnWzApGC0itujNJo5pHkk%3D%3A0"}, 
  {"key":"csp_Dy1010","name":"影视10｜双十影院","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,  "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Yoursmile.jar",},
 {"key":"Smdyy","name":"影视11｜神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,  "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Yoursmile.jar",},
-{"key":"csp_Voflix","name":"影视12｜flix影院","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Voflix","name":"影视12｜flix影院","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,  "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Yoursmile.jar",},
 
     
     {
