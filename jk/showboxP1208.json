@@ -33,8 +33,8 @@
       "filterable": 1
     },
     {"key":"YQK_spider","name":"影视02｜世界杯","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://52bsj.vip:81/api/v3/file/get/65035/qj.jar?sign=U-N-b8k1fvZQ9JfIF7a2H3Uq-F33kjJAS-D4qPqYJcA%3D%3A0"},	
-   {"key":"快看","name":"影视03｜快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AppTT","name":"影视04｜图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/769/ts.jar?sign=JNmzvCS9h6tbHMesMLeRUswnWzApGC0itujNJo5pHkk%3D%3A0"},
+   {"key":"快看","name":"影视03｜快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"AppTT","name":"影视04｜图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/769/ts.jar?sign=JNmzvCS9h6tbHMesMLeRUswnWzApGC0itujNJo5pHkk%3D%3A0"},
     {
       "key": "mtv_xp_农民影视",
       "name": "影视05｜农民影视",
@@ -46,12 +46,12 @@
       "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Yoursmile.jar",
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
     },
-   {"key":"csp_Zxzj","name":"影视06｜在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Zjdr","name":"影视07｜追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+   {"key":"csp_Zxzj","name":"影视06｜在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,  "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Yoursmile.jar",},
+{"key":"Zjdr","name":"影视07｜追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,  "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Yoursmile.jar",},
 {"key":"csp_Czsapp","name":"影视08｜厂长直链","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"影视09｜厂长影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/769/ts.jar?sign=JNmzvCS9h6tbHMesMLeRUswnWzApGC0itujNJo5pHkk%3D%3A0"}, 
- {"key":"csp_Dy1010","name":"影视10｜双十影院","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Smdyy","name":"影视11｜神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"csp_Dy1010","name":"影视10｜双十影院","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,  "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Yoursmile.jar",},
+{"key":"Smdyy","name":"影视11｜神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,  "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Yoursmile.jar",},
 {"key":"csp_Voflix","name":"影视12｜flix影院","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
     
@@ -89,7 +89,7 @@
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/花猫影视.json"
     },
- {"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"mjxq_spider","name":"影视19｜美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 
     {
       "key": "mtv_xp_奇优影院",
@@ -111,7 +111,6 @@
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/COKEMV.json"
     },
-    {"key":"csp_Cokemv","name":"影视21｜Cokemv2","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "csp_appysv2_段友影视〔APP〕",
       "name": "影视22｜段友影视",
