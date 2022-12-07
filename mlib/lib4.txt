@@ -1,93 +1,25 @@
 {
   "urls": [
     {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/kcel.json",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/7xsn.json",
       "name": "1　　　　🍉接口1　　"
     },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/eib3.json",
-      "name": "2　　　　🍉接口2　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json",
-      "name": "3　　　　🍉接口3　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json",
-      "name": "4　　　　🍉接口4　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/1pw8.json",
-      "name": "5　　　　🍉接口5　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json",
-      "name": "6　　　　🍉接口6　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/g6qm.json",
-      "name": "7　　　　🍉接口7　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/7l7n.json",
-      "name": "8　　　　🍉接口8　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-      "name": "9　　　　🍉接口9　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json",
-      "name": "10　　　　🍉接口10　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ns66.json",
-      "name": "11　　　　🍉接口11　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/5tbo.json",
-      "name": "12　　　　🍉接口12　　"
-    },
+  
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fzns.json",
       "name": "13　　　　🍉接口13　　"
     },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pb9c.json",
-      "name": "14　　　　🍉接口14　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fuli.json",
-      "name": "15　　　　🍉接口15　　"
-    },
+
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ypfe.json",
       "name": "16　　　　🍉接口16　　"
     },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/gv97.json",
-      "name": "17　　　　🍉接口17　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/489x.json",
-      "name": "18　　　　🍉接口18　　"
-    },
+
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/5vdu.json",
       "name": "19　　　　🍉接口19　　"
     },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/p6w5.json",
-      "name": "20　　　　🍉接口20　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/hp75.json",
-      "name": "21　　　　🍉接口21　　"
-    },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/dy4v.json",
-      "name": "22　　　　🍉接口22　　"
-    },
+  
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/sky3.json",
       "name": "23　　　　🍉接口23　　"
@@ -96,18 +28,12 @@
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/E8plus.json",
       "name": "24　　　　🍉接口24　　"
     },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/9y1u.json",
-      "name": "25　　　　🍉接口25　　"
-    },
+
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/c1tq.json",
       "name": "26　　　　🍉接口26　　"
     },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/cks2K01.txt",
-      "name": "27　　　　🍉接口27　　"
-    },
+  
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/65yp.json",
       "name": "28　　　　🍉接口28　　"
@@ -120,10 +46,7 @@
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xafc.json",
       "name": "30　　　　🍉接口30　　"
     },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/2czs.json",
-      "name": "31　　　　🍉接口31　　"
-    },
+
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/0uzc.json",
       "name": "32　　　　🍉接口32　　"
@@ -136,10 +59,7 @@
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/nz3b.json",
       "name": "34　　　　🍉接口34　　"
     },
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/cksT3.txt",
-      "name": "35　　　　🍉接口35　　"
-    },
+
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyniu.txt",
       "name": "36　　　　🍉接口36　　"
