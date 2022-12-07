@@ -1,17 +1,13 @@
 {
   "urls": [
-
-    
-       {
+    {
       "url": "https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/showboxP1102.json",
       "name": "默认　　　🍋ShowBox"
     },
-        {
+    {
       "url": "http://52bsj.vip:98/wuai",
       "name": "1　　　　🍉吾爱　　"
     },
-    
-    
     {
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
       "name": "2　　　　🍇星辰　　"
@@ -40,22 +36,57 @@
       "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
       "name": "8　　　　🍍蚂蚁　　"
     },
-      {
-            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "９　　　　🍊云星家庭"
-        },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
-            "name": "１０　　　　🍉云星哔哩"
-        },
-        {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "１１　　　　🍋云星阿里"
-        },
-          {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "１２　　　　🍑巧技　　"
-        }
-        
+    {
+      "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+      "name": "９　　　　🍊云星家庭"
+    },
+    {
+      "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+      "name": "１０　　　　🍉云星哔哩"
+    },
+    {
+      "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+      "name": "１１　　　　🍋云星阿里"
+    },
+    {
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "name": "１２　　　　🍑巧技　　"
+    },
+    {
+      "url": "http://饭太硬.ga/x/o.json",
+      "name": "１３　　　　🍑饭太硬　　"
+    },
+    {
+      "url": "https://cainisi.cf/",
+      "name": "１４　　　　🍑菜妮丝　　"
+    },
+    {
+      "url": "http://肥猫.love",
+      "name": "１５　　　　🍑肥猫　　"
+    },
+    {
+      "url": "http://byyds.top/w.txt",
+      "name": "１６　　　　🍑分享君　　"
+    },
+    {
+      "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
+      "name": "１７　　　　🍑小马　　"
+    },
+    {
+      "url": "http://js.134584.xyz/json/pp87.json",
+      "name": "１８　　　　🍑白嫖　　"
+    },
+    {
+      "url": "http://www.dmtv.ml/mao/single.json",
+      "name": "１９　　　　🍑乱世　　"
+    },
+    {
+      "url": "http://111.67.196.181/mtv/meow.txt",
+      "name": "０　　　　🍑太阳　　"
+    },
+    {
+      "url": "https://dxawi.github.io/0/0.json",
+      "name": "２１　　　　🍑DDD　　"
+    }
   ]
 }
