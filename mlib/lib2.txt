@@ -19,10 +19,6 @@
     {
       "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
       "name": "Ｅ　　　　🌷兽爪线路"
-    },
-    {
-      "url": "https://ju.binghe.ga/4.txt",
-      "name": "Ｆ　　　　🔥冰河　　"
     }
   ]
 }
