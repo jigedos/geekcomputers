@@ -32,16 +32,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "mtv_pc_小苹果源",
-      "name": "影视01｜小苹果源",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"
-    },
+   {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
   
     {
       "key": "mtv_xp_饭团影院",
