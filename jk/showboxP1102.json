@@ -33,26 +33,9 @@
       "filterable": 1
     },
    {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-  
-    {
-      "key": "mtv_xp_饭团影院",
-      "name": "影视03｜饭团影院",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/饭团影院.json"
-    },
-    {
-      "key": "csp_Kuaikan",
-      "name": "影视04｜快看影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  {"key":"csp_fant","name":"🍙饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+  {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
     {
       "key": "mtv_xp_农民影视",
       "name": "影视05｜农民影视",
@@ -61,52 +44,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar",
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/农民影视.json"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Yoursmile.jar",
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"
     },
-    {
-      "key": "mtv_xp_在线之家",
-      "name": "影视06｜在线之家",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/在线之家.json"
-    },
-   
-    {
-      "key": "mtv_pc_追剧达人",
-      "name": "影视08｜追剧达人",
-      "type": 3,
-      "api": "csp_Zjdr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"
-    },
-  
-    {
-      "key": "mtv_xp_厂长直链",
-      "name": "影视11｜厂长直链",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar",
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/厂长直链.json"
-    },
-    {
-      "key": "mtv_xp_茶杯狐源",
-      "name": "影视12｜茶杯狐源",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/茶杯狐源.json"
-    },
+   {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czsapp","name":"🏭厂长直链","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+ 
     {
       "key": "mtv_xp_达龟影视",
       "name": "影视13｜达龟影视",
@@ -115,7 +59,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/达龟影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/达龟影视.json"
     },
     {
       "key": "mtv_xp_金眼影视",
@@ -125,7 +69,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/金眼影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/金眼影视.json"
     },
   
     {
@@ -136,7 +80,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/剧白影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/剧白影视.json"
     },
     {
       "key": "mtv_xp_剧白直链",
@@ -146,7 +90,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/剧白直链.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/剧白直链.json"
     },
     {
       "key": "mtv_xp_花猫影视",
@@ -156,7 +100,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/花猫影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/花猫影视.json"
     },
  
     {
@@ -167,7 +111,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/奇优影院.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/奇优影院.json"
     },
     {
       "key": "csp_biubiu_COKEMV",
@@ -259,7 +203,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/球迷直播.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/球迷直播.json"
     },
     {
       "key": "music",
@@ -298,7 +242,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/酷奇视频.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/酷奇视频.json"
     },
     {
       "key": "演唱会",
@@ -328,7 +272,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/音乐演唱.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/音乐演唱.json"
     },
     {
       "key": "mtv_xp_酷狗视频",
@@ -338,7 +282,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/酷狗视频.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/酷狗视频.json"
     },
     {
       "key": "entertainment",
@@ -481,7 +425,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/美食天地.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/美食天地.json"
     },
     {
       "key": "csp_BBB2",
@@ -590,7 +534,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/动漫巴士.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/动漫巴士.json"
     },
     {
       "key": "mtv_xp_动漫岛源",
@@ -600,7 +544,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/动漫岛源.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/动漫岛源.json"
     },
     {
       "key": "mtv_xp_去看动漫",
@@ -610,7 +554,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/去看动漫.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/去看动漫.json"
     },
     {
       "key": "ts",
@@ -629,7 +573,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/jar2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"
     },
   
     {
@@ -658,7 +602,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/乐猪影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/乐猪影视.json"
     },
     {
       "key": "mtv_xp_口袋影院",
@@ -668,7 +612,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/口袋影院.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/口袋影院.json"
     },
  
     {
@@ -679,7 +623,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/jar1.jar"
     },
     {
       "key": "mtv_pc_两个磁力",
@@ -689,7 +633,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/jar1.jar"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/jar1.jar"
     },
     {
       "key": "mtv_xp_影视工厂",
@@ -699,7 +643,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/影视工厂.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/影视工厂.json"
     },
     {
       "key": "mtv_xp_蓝光影院",
@@ -709,7 +653,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/蓝光影院.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/蓝光影院.json"
     },
     {
       "key": "mtv_xp_比特影视",
@@ -719,7 +663,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/比特影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/比特影视.json"
     },
     {
       "key": "mtv_xp_Nike影视",
@@ -729,7 +673,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/Nike影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/Nike影视.json"
     },
   
     {
@@ -740,7 +684,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/瓜皮影视.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/瓜皮影视.json"
     },
     {
       "key": "mtv_xp_骚火电影",
@@ -750,7 +694,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/jigedos/tvbox1/main/jk/json/骚火电影.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/jk/json/骚火电影.json"
     },
     {
       "key": "csp_xbb_搜狗影院",
