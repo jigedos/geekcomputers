@@ -91,10 +91,7 @@
     }
   ],
   "zhuyejiekou": [
-  {
-      "name": "【非凡工具箱】",
-      "url": "https://www.jiajia.pub/api.php/v1.vod"
-    },
+ 
     {
       "name": "段友影视",
       "url": "http://js.66app.me/api.php/app/"
@@ -138,10 +135,7 @@
     }
   ],
   "caijizhan": [
-    {
-      "name": "【非凡工具箱】",
-      "url": "http://anltv.cn/api.php"
-    },
+   
     {
       "name": "天堂影院",
       "url": "http://vipmv.cc/api.php"
@@ -488,7 +482,7 @@
   "guolvdizhi": ".gif#.js#.css#rl=#.ico#.html#51.la#poster#api.php#file=#cnzz.com#baidu.com#tootw.com#auete.com#czspp.com#bilibili.com#888kanqiu.com",
   "zidingyi": [
        {
-      "name": "【非凡工具箱】",
+      "name": "红领巾",
       "url": "https://www.honglingjin.tv",
       "User": "空",
       "fenlei": "连续剧$/list/2/#电影$/list/1/#综艺$/list/3/#动漫$/list/4/",
