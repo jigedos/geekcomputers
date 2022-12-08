@@ -176,7 +176,7 @@
     },
     {
       "key": "csp_SP360",
-      "name": "影视17｜360 ",
+      "name": "影视17｜360影视 ",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -234,7 +234,7 @@
     },
     {
       "key": "sports",
-      "name": "■■ 体   育 ■■",
+      "name": "🍎 体   育 🍎",
       "type": 3,
       "api": "",
       "searchable": 0,
@@ -305,7 +305,7 @@
     },
     {
       "key": "music",
-      "name": "■■ 音  乐 ■■",
+      "name": "🍎 音  乐 🍎",
       "type": 3,
       "api": "",
       "searchable": 0,
@@ -384,7 +384,7 @@
     },
     {
       "key": "entertainment",
-      "name": "■■ 娱  乐 ■■",
+      "name": "🍎 娱  乐 🍎",
       "type": 3,
       "api": "",
       "searchable": 0,
@@ -465,7 +465,7 @@
     },
     {
       "key": "bilibbili",
-      "name": "■■ B  站 ■■",
+      "name": "🍎 B  站 🍎",
       "type": 3,
       "api": "",
       "searchable": 0,
@@ -545,7 +545,7 @@
     },
     {
       "key": "study",
-      "name": "■■ 学  习 ■■",
+      "name": "🍎 学  习 🍎",
       "type": 3,
       "api": "",
       "searchable": 0,
@@ -595,7 +595,7 @@
     },
     {
       "key": "cartoon",
-      "name": "■■ 动  漫 ■■",
+      "name": "🍎 动  漫 🍎",
       "type": 3,
       "api": "",
       "searchable": 0,
@@ -664,7 +664,7 @@
     },
     {
       "key": "ts",
-      "name": "■■ 特  色 ■■",
+      "name": "🍎 特  色 🍎",
       "type": 3,
       "api": "",
       "searchable": 0,
@@ -801,7 +801,7 @@
     },
     {
       "key": "netdisk",
-      "name": "■■ 网  盘 ■■",
+      "name": "🍎 网  盘 🍎",
       "type": 3,
       "api": "",
       "searchable": 0,
@@ -830,7 +830,7 @@
     },
     {
       "key": "search",
-      "name": "■■ 搜  索 ■■",
+      "name": "🍎 搜  索 🍎",
       "type": 3,
       "api": "",
       "searchable": 0,
@@ -866,14 +866,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-    },
-    {
-      "key": "速度资源",
-      "name": "      ",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 0,
-      "quickSearch": 0
     }
   ],
   "parses": [
