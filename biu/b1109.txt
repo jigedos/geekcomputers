@@ -42,10 +42,7 @@
     }
   ],
   "zhuyejiekou": [
-    {
-      "name": "公众号【非凡工具箱】",
-      "url": "https://www.30dian.cn/api.php/v1.vod"
-    },
+   
     {
       "name": "创意影视",
       "url": "http://www.30dian.cn/api.php/v1.vod"
@@ -60,10 +57,7 @@
     }
   ],
   "caijizhan": [
-    {
-      "name": "公众号【非凡工具箱】",
-      "url": "http://api.kunyu77.com/api.php"
-    },
+   
     {
       "name": "星海资源(切)",
       "url": "https://www.xhzy01.com/api.php"
