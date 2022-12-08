@@ -1,14 +1,6 @@
 {
   "urls": [
-    {
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/1DY.txt",
-      "name": "💯【放学回家看电视】"
-    },
-
-          {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/jigedos/zby/main/hj/LIVE2.txt",
-            "name": "０号　　🎁直播仓"
-        },
+      
        {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/1DY.txt",
       "name": "１号　　🎁影视"
