@@ -3,7 +3,7 @@
 
         {
             "url": "https://la.kstore.space/download/3092/dd.json",
-            "name": "【非凡工具箱】"
+            "name": "DD"
         },
   
         {
