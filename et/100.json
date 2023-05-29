@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/qqfljybox/master/9.jar;md5;CD3F89F218985E3C3BA577CEBF5C039C",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/9.jar;md5;CD3F89F218985E3C3BA577CEBF5C039C",
   "wallpaper": "https://壁纸.神器每日推送.tk",
   "lives": [
     {
@@ -24,7 +24,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
     },
   
     {
@@ -35,7 +35,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://ftp6284928.host108.abeiyun.cn/json/幼儿乐园.json"
+      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/幼儿乐园.json"
     },
     {
       "key": "学习",
@@ -45,7 +45,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://45.125.46.61/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
+      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
     },
    
    
@@ -57,7 +57,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://ftp6284928.host108.abeiyun.cn/json/少儿教育.json"
+      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -67,7 +67,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://ftp6284928.host108.abeiyun.cn/json/小学课堂.json"
+      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -77,7 +77,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://ftp6284928.host108.abeiyun.cn/json/初中课堂.json"
+      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -87,51 +87,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://ftp6284928.host108.abeiyun.cn/json/高中课堂.json"
-    },
-   
- {
-      "key": "美食",
-      "name": "🍔美食合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://45.125.46.61/box/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
-    },
-    {
-      "key": "戏曲",
-      "name": "👘戏曲合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://45.125.46.61/box/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
-    },
-   
-    {
-      "key": "Sp_Bi",
-      "name": "🅱️健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"
-    },
-
-
-    {
-      "key": "cps_bl_棋牌娱乐",
-      "name": "棋牌娱乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.looo.top/app/json/棋牌娱乐.json"
+      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/高中课堂.json"
     }
    
   ],
