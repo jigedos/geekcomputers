@@ -15,7 +15,6 @@
     }
   ],
   "sites": [
-  
     {
       "key": "儿童",
       "name": "🐯儿童乐园",
@@ -26,7 +25,6 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
     },
-  
     {
       "key": "幼儿乐园",
       "name": "幼儿乐园\n💟故事：早教、启蒙、英语、睡前 安全教育\n💟儿歌、绘画、音乐                                       \n💟识字、宝宝巴士、学而思                            ",
@@ -35,7 +33,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/幼儿乐园.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/幼儿乐园.json"
     },
     {
       "key": "学习",
@@ -45,10 +43,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
     },
-   
-   
     {
       "key": "少儿教育",
       "name": "少儿教育\n💟宝宝巴士、悟空识字、学而思\n💟小学、初中、高中教育          ）",
@@ -57,7 +53,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/少儿教育.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -67,7 +63,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/小学课堂.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -77,7 +73,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/初中课堂.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -87,9 +83,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": ""https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/高中课堂.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/高中课堂.json"
     }
-   
   ],
   "drives": [
     {
