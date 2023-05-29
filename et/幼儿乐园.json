@@ -1,0 +1,41 @@
+{
+  "classes": [
+    {
+      "type_name": "儿童早教",
+      "type_id": "儿童早教"
+    },
+    {
+      "type_name": "儿童启蒙故事",
+      "type_id": "启蒙故事"
+    },
+  
+     {
+      "type_name": "睡前故事",
+      "type_id": "睡前故事"
+    },
+    
+    {
+      "type_name": "儿童英语启蒙",
+      "type_id": "英语启蒙"
+    },
+    
+     {
+      "type_name": "儿童歌曲",
+      "type_id": "儿童歌曲"
+    },
+       {
+      "type_name": "儿童音乐",
+      "type_id": "儿童音乐"
+    },
+        {
+      "type_name": "贝瓦儿歌",
+      "type_id": "贝瓦儿歌"
+    },
+    
+       {
+      "type_name": "儿歌多多",
+      "type_id": "儿歌多多"
+    }
+
+  ]
+}
