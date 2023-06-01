@@ -8,7 +8,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9iZC92Ly0vcmF3L21haW4vbGl2ZS96Yi50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamlnZWRvcy90dmJveDEvbWFpbi9ldC9ldHpiLmpvc24="
           ]
         }
       ]
@@ -18,7 +18,7 @@
   
     {
       "key": "儿童",
-      "name": "🐯绘画 识字 安全",
+      "name": "儿童通识\n✏️绘画 🅰️识字 🚘安全",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -29,7 +29,7 @@
   
     {
       "key": "幼儿乐园",
-      "name": "故事 音乐",
+      "name": "幼儿乐园\n📕故事 🎼音乐",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -39,7 +39,7 @@
     },
     {
       "key": "学习",
-      "name": "📝励志学习 看图写话 少儿口才\n💟【小学全科】语文、数学、英语",
+      "name": "📝励志学习\n📖看图写话    🍍少儿口才\n💟【小学全科】语文、数学、英语",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -51,7 +51,7 @@
    
     {
       "key": "少儿教育",
-      "name": "\n💟央视少儿 悟空识字 学而思\n💟【辅导】小学、初中、高中）",
+      "name": "📚少儿教育\n💟央视少儿 悟空识字 学而思\n💟【辅导】小学、初中、高中）",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -61,7 +61,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "小学课堂",
+      "name": "🙍小学课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -71,7 +71,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "初中课堂",
+      "name": "🙍‍♀️初中课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -81,57 +81,13 @@
     },
     {
       "key": "高中教育",
-      "name": "高中课堂",
+      "name": "👨‍🎓高中课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://ftp6284928.host108.abeiyun.cn/json/高中课堂.json"
-    },
-   
- {
-      "key": "美食",
-      "name": "🍔美食合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://45.125.46.61/box/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
-    },
-    {
-      "key": "戏曲",
-      "name": "👘戏曲合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://45.125.46.61/box/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
-    },
-   
-    {
-      "key": "Sp_Bi",
-      "name": "🅱️健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"
-    },
-
-
-    {
-      "key": "cps_bl_棋牌娱乐",
-      "name": "棋牌娱乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.looo.top/app/json/棋牌娱乐.json"
     }
    
   ],
