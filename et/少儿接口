@@ -24,29 +24,30 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
     },
   
     {
       "key": "幼儿乐园",
-      "name": "幼儿乐园\n\n📕故事 🎼音乐",
+      "name": "幼儿乐园\n\n📕故事（启蒙、睡前） 🎼音乐 🎼儿歌",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://ftp6284928.host108.abeiyun.cn/json/幼儿乐园.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/%E5%B9%BC%E5%84%BF%E4%B9%90%E5%9B%AD.json"
     },
     {
       "key": "学习",
-      "name": "📝励志学习\n\n📖看图写话    🍍少儿口才\n💟【小学全科】语文、数学、英语",
+      "name": "学习园地\n\n📝励志学习  📖看图写话    🍍少儿口才\n💟【小学全科】语文、数学、英语",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://45.125.46.61/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
     },
+   
    
    
     {
@@ -57,7 +58,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://ftp6284928.host108.abeiyun.cn/json/少儿教育.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/et/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
     },
     {
       "key": "小学课堂",
