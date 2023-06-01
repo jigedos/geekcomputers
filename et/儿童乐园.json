@@ -7,23 +7,15 @@
       "type_id": "儿童绘画"
     },
  
+   
     {
-      "type_name": "儿童动画",
-      "type_id": "儿童动画"
+      "type_name": "悟空识字",
+      "type_id": "悟空识字"
     },
  
     {
       "type_name": "儿童安全教育",
       "type_id": "儿童安全教育"
-    },
-
-    {
-      "type_name": "悟空识字",
-      "type_id": "悟空识字"
-    },
-    {
-      "type_name": "宝宝巴士",
-      "type_id": "宝宝巴士"
     }
  
   ],
