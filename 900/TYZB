@@ -124,22 +124,6 @@ IHOT,#genre#
 爱电竞高清,http://171.214.202.74:4000/udp/239.93.42.19:5140
 爱赛车高清,http://171.214.202.74:4000/udp/239.93.42.20:5140
 爱宠宠物,http://171.214.202.74:4000/udp/239.93.42.32:5140
-iptv,#genre#
-4K高清电影,http://218.241.192.50:8808/udp/239.3.1.249:8001
-IPTV淘电影2,http://218.241.192.50:8808/udp/239.3.1.250:8001
-IPTV淘BABY,http://218.241.192.50:8808/udp/239.3.1.238:8001
-IPTV萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001
-IPTV淘精彩HD,http://218.241.192.50:8808/udp/239.3.1.178:8001
-IPTV淘剧场HD,http://218.241.192.50:8808/udp/239.3.1.95:8001
-IPTV淘娱乐HD,http://218.241.192.50:8808/udp/239.3.1.100:8001
-风尚生活,http://171.214.202.74:4000/udp/239.93.42.29:5140
-幸福娱乐,http://171.214.202.74:4000/udp/239.93.42.31:5140
-来钓鱼吧,http://171.214.202.74:4000/udp/239.93.42.8:5140
-麻辣体育,http://171.214.202.74:4000/udp/239.93.42.2:5140
-绚影4K,http://171.214.202.74:4000/udp/239.93.42.33:5140
-中国体育1,http://171.214.202.74:4000/udp/239.93.42.25:5140
-中国体育2,http://171.214.202.74:4000/udp/239.93.42.26:5140
-中国体育3,http://171.214.202.74:4000/udp/239.93.42.27:5140
 
 
 
@@ -1147,7 +1131,6 @@ ihot V6,#genre#
 4K&8K频道,#genre#
 欢笑剧场4k,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 欢笑剧场4k,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-欢笑剧场4K,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
 欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
@@ -1238,10 +1221,6 @@ RTS动画,http://livetv.ktv.zone/1/play.m3u8
 急冻奇侠,https://vip.lz-cdn1.com/20220404/926_f1e31dd0/1200k/hls/mixed.m3u8#https://ukzy.ukubf3.com/20220402/nP4K5xUH/2000kb/hls/index.m3u8					
 
 电影频道,#genre#
-CHC动作电影,http://8.218.49.207:9999/小果.php?id=wqCHCdzdyH265_4000&Cf.m3u8
-CHC高清电影,http://8.218.49.207:9999/小果.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
-CHC家庭影院,http://8.218.49.207:9999/小果.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
-龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 HBO,http://208.115.225.174:14165
 HBO 2,http://208.115.225.174:14140
 HBO Mundi,http://208.115.225.174:14148
@@ -1251,18 +1230,14 @@ HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct
 
 
 湾频道,#genre#
-凤凰中文,http://8.218.49.207:9999/小果.php?id=test1_4000&Cf.m3u8
-凤凰资讯,http://8.218.49.207:9999/小果.php?id=test2_4000&Cf.m3u8
-探索頻道,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+
 探索頻道,http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 探索亞洲,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 探索亞洲,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
 緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 衛視中文,http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
-东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 东森戏剧,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 东森戏剧,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
-东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
 东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MD5D1600799216007992&ct=19613&tsum=85bee3173344dd522527eabb660284b6
 东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
