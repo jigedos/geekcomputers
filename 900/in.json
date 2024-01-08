@@ -130,14 +130,9 @@ IHOT,#genre#
 爱电竞高清,http://171.214.202.74:4000/udp/239.93.42.19:5140
 爱赛车高清,http://171.214.202.74:4000/udp/239.93.42.20:5140
 爱宠宠物,http://171.214.202.74:4000/udp/239.93.42.32:5140
+
 iptv,#genre#
-4K高清电影,http://218.241.192.50:8808/udp/239.3.1.249:8001
-IPTV淘电影2,http://218.241.192.50:8808/udp/239.3.1.250:8001
-IPTV淘BABY,http://218.241.192.50:8808/udp/239.3.1.238:8001
-IPTV萌宠TV,http://218.241.192.50:8808/udp/239.3.1.102:8001
-IPTV淘精彩HD,http://218.241.192.50:8808/udp/239.3.1.178:8001
-IPTV淘剧场HD,http://218.241.192.50:8808/udp/239.3.1.95:8001
-IPTV淘娱乐HD,http://218.241.192.50:8808/udp/239.3.1.100:8001
+
 风尚生活,http://171.214.202.74:4000/udp/239.93.42.29:5140
 幸福娱乐,http://171.214.202.74:4000/udp/239.93.42.31:5140
 来钓鱼吧,http://171.214.202.74:4000/udp/239.93.42.8:5140
@@ -169,12 +164,25 @@ IPTV淘娱乐HD,http://218.241.192.50:8808/udp/239.3.1.100:8001
 
 
 付费频道,#genre#
+风云音乐,http://qhjx.top:18000/udp/238.255.2.24:5999
+第一剧场,http://qhjx.top:18000/udp/238.255.2.25:5999
+世界地理,http://qhjx.top:18000/udp/238.255.2.26:5999
+女性时尚,http://qhjx.top:18000/udp/238.255.2.27:5999
+风云剧场,http://qhjx.top:18000/udp/238.255.2.28:5999
+风云足球,http://qhjx.top:18000/udp/238.255.2.29:5999
+央视文化精品,http://qhjx.top:18000/udp/238.255.2.32:5999
+怀旧剧场,http://qhjx.top:18000/udp/238.255.2.33:5999
+兵器科技,http://qhjx.top:18000/udp/238.255.2.34:5999
+老故事,http://qhjx.top:18000/udp/238.255.2.35:5999
+CHC动作电影,http://58.19.13.92:9901/tsfile/live/1037_1.m3u8
+CHC高清电影,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8
 CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 CHC动作电影,http://221.2.36.34:8888/newlive/live/hls/56/live.m3u8
 CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 CETV-1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
+
 
 
 央视 IPV6,#genre#
@@ -1031,6 +1039,38 @@ ihot V6,#genre#
 爱娱乐,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000044/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000044&livemode=1&stbId=3
 爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
+SITV,#genre#
+全纪实,http://lzoq.hk3.20212021.cf/daili/?id=qjshd8m/8000000
+生活时尚,http://lzoq.hk3.20212021.cf/daili/?id=shss8m/8000000
+新视觉,http://lzoq.hk3.20212021.cf/daili/?id=xsjhd8m/8000000
+游戏风云,http://lzoq.hk3.20212021.cf/daili/?id=yxfy8m/8000000
+热门综艺,http://lzoq.hk3.20212021.cf/daili/?id=rmzy8m/8000000
+健康养生,http://lzoq.hk3.20212021.cf/daili/?id=jkys8m/8000000
+百变课堂,http://lzoq.hk3.20212021.cf/daili/?id=bbkt8m/8000000
+看天下精选,http://lzoq.hk3.20212021.cf/daili/?id=ktxjx8m/8000000
+华语影院,http://lzoq.hk3.20212021.cf/daili/?id=hyyy8m/8000000
+电竞天堂,http://lzoq.hk3.20212021.cf/daili/?id=djtt8m/8000000
+青春动漫,http://lzoq.hk3.20212021.cf/daili/?id=qcdm8m/8000000
+宝宝动画,http://lzoq.hk3.20212021.cf/daili/?id=bbdh8m/8000000
+星光影院,http://lzoq.hk3.20212021.cf/daili/?id=xgyy8m/8000000
+谍战剧场,http://lzoq.hk3.20212021.cf/daili/?id=dzjc8m/8000000
+全球大片,http://lzoq.hk3.20212021.cf/daili/?id=qqdp8m/8000000
+热门剧场,http://lzoq.hk3.20212021.cf/daili/?id=rmjc8m/8000000
+中国教育-1,http://lzoq.hk3.20212021.cf/daili/?id=zgjy1t8m/8000000
+中国教育-4,http://lzoq.hk3.20212021.cf/daili/?id=zgjy4hd8m/8000000
+卡酷少儿,http://lzoq.hk3.20212021.cf/daili/?id=kkse8m/8000000
+纪实科教,http://lzoq.hk3.20212021.cf/daili/?id=dajs8m/8000000
+茶频道,http://lzoq.hk3.20212021.cf/daili/?id=cpdhdavs8m/8000000
+炫动卡通,http://lzoq.hk3.20212021.cf/daili/?id=hhxd8m/8000000
+东方财经,http://lzoq.hk3.20212021.cf/daili/?id=dfcjhd8m/8000000
+都市剧场,http://lzoq.hk3.20212021.cf/daili/?id=dsjc8m/8000000
+动漫秀场,http://lzoq.hk3.20212021.cf/daili/?id=dmxc8m/8000000
+法治天地,http://lzoq.hk3.20212021.cf/daili/?id=fztd8m/8000000
+魅力足球,http://lzoq.hk3.20212021.cf/daili/?id=mlyyhd8m/8000000
+超级体育,http://lzoq.hk3.20212021.cf/daili/?id=qcsj8m/8000000
+陶瓷高清,http://lzoq.hk3.20212021.cf/daili/?id=taocihd/8000000
+足球高清,http://lzoq.hk3.20212021.cf/daili/?id=zqpd8m/8000000
+
 百视频道,#genre#
 百视电影1,https://bp-caster.bestv.com.cn/88/3/video.m3u8
 百视电影2,https://bp-caster.bestv.com.cn/89/3/video.m3u8
@@ -1080,22 +1120,11 @@ ihot V6,#genre#
 
 
 虎牙频道,#genre#
-周星星,http://43.138.170.29:35455/huya/24470631
 林正英,http://43.138.170.29:35455/huya/11342421
 沈腾,http://43.138.170.29:35455/huya/11601968
 猫和老鼠,http://43.138.170.29:35455/huya/11352879
 成龙,http://43.138.170.29:35455/huya/11342386
 李连杰,http://43.138.170.29:35455/huya/11342390
-刘德华,http://43.138.170.29:35455/huya/11342424
-王晶,http://43.138.170.29:35455/huya/11602058
-中华小当家,http://43.138.170.29:35455/huya/11342413
-杰森·斯坦森,http://43.138.170.29:35455/huya/21059588
-喜剧专场,http://43.138.170.29:35455/huya/11602044
-甄子丹,http://43.138.170.29:35455/huya/11352935
-巨石强森,http://43.138.170.29:35455/huya/21059581
-洪金宝,http://43.138.170.29:35455/huya/11279251
-詹姆斯邦德,http://43.138.170.29:35455/huya/21059585
-徐克,http://43.138.170.29:35455/huya/11352909
 周润发,http://43.138.170.29:35455/huya/11342387
 徐峥,http://43.138.170.29:35455/huya/11602043
 许氏三杰,http://43.138.170.29:35455/huya/11602033
@@ -1104,43 +1133,10 @@ ihot V6,#genre#
 冯小刚,http://43.138.170.29:35455/huya/11352906
 百鸟朝凤,http://43.138.170.29:35455/huya/15894162
 陈翔六点半,http://43.138.170.29:35455/huya/11274154
-电锯惊魂系列,http://43.138.170.29:35455/huya/11352903
-电影,http://43.138.170.29:35455/huya/618917
-港台电影,http://43.138.170.29:35455/huya/880261
-高分电影,http://43.138.170.29:35455/huya/16615910
-搞笑僵尸片,http://43.138.170.29:35455/huya/11352963
-国产青春,http://43.138.170.29:35455/huya/11602075
-好莱坞,http://43.138.170.29:35455/huya/21059587
-黑帮斗争,http://43.138.170.29:35455/huya/11342419
-红海行动,http://43.138.170.29:35455/huya/11601986
-极限挑战],http://43.138.170.29:35455/huya/11352914
-金庸的武侠世界,http://43.138.170.29:35455/huya/11342435
-金庸电影,http://43.138.170.29:35455/huya/11352897
-经典高智商,http://43.138.170.29:35455/huya/11352962
-经典好片,http://43.138.170.29:35455/huya/11342427
-经典喜剧片,http://43.138.170.29:35455/huya/11352894
-精彩不断,http://43.138.170.29:35455/huya/24396428
-精忠岳飞南征北战,http://43.138.170.29:35455/huya/11336578
-警匪,http://43.138.170.29:35455/huya/11352886
-看救援电影,http://43.138.170.29:35455/huya/21059586
+救援电影,http://43.138.170.29:35455/huya/21059586
 科幻电影,http://43.138.170.29:35455/huya/11602034
-路飞,http://43.138.170.29:35455/huya/16913382
-麻雀,http://43.138.170.29:35455/huya/11352881
-命案十三宗,http://43.138.170.29:35455/huya/11601981
-魔法世界,http://43.138.170.29:35455/huya/21059580
-欧美电影,http://43.138.170.29:35455/huya/11352880
-欧美娱乐,http://43.138.170.29:35455/huya/21059574
-倩女幽魂,http://43.138.170.29:35455/huya/11601970
-史诗级战争电影,http://43.138.170.29:35455/huya/21059556
-电影24,http://43.138.170.29:35455/huya/21059579
-电影55,http://43.138.170.29:35455/huya/23652317
-电影26,http://43.138.170.29:35455/huya/21059577
-电影77,http://43.138.170.29:35455/huya/11601971
+黄百鸣,http://43.138.170.29:35455/huya/11601971
 电影78,http://43.138.170.29:35455/huya/11342414
-神话,http://43.138.170.29:35455/huya/11352913
-生活大爆炸,http://43.138.170.29:35455/huya/11342417
-孙悟空,http://43.138.170.29:35455/huya/11342395
-天雷滚滚,http://43.138.170.29:35455/huya/11352945
 天龙八部,http://43.138.170.29:35455/huya/11602041
 歪果仁动作,http://43.138.170.29:35455/huya/21059552
 文成公主,http://43.138.170.29:35455/huya/11352974
@@ -1151,9 +1147,6 @@ ihot V6,#genre#
 医馆笑传,http://43.138.170.29:35455/huya/11352891
 止戈电影,http://43.138.170.29:35455/huya/19863777
 中国功夫,http://43.138.170.29:35455/huya/11352941
-朱雀青龙,http://43.138.170.29:35455/huya/11352905
-
-电影_怪兽系列,http://43.128.40.42:198/虎牙直播/huya.php?id=21059554
 
 斗鱼频道,#genre#
 粤语综艺,http://epg.112114.xyz/douyu/7919720
@@ -1271,32 +1264,27 @@ ihot V6,#genre#
 斗鱼搞笑HD5,http://epg.112114.xyz/douyu/8737695
 
 港频道,#genre#
-欢笑剧场4k,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-欢笑剧场4k,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-欢笑剧场4K,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
-欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 江苏8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.flv
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-香港8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+香港8K[ipv6],http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 TVP2 HD,http://178.219.128.68:64889/TVP2HD
 TVP1 HD,http://178.219.128.68:64889/TVP1HD
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://146.56.153.245:8006/bysid/1
-ViuTVsix,http://146.56.153.245:8006/bysid/96
-ViuTV,http://146.56.153.245:8006/bysid/99
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯台,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰香港台,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 TVB星河(粤),mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
+ViuTVsix,http://146.56.153.245:8006/bysid/96
+ViuTV,http://146.56.153.245:8006/bysid/99
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+
 
 环球高清,#genre#
 
@@ -1377,10 +1365,6 @@ C8影剧,http://livetv.ktv.zone/10/play.m3u8
 急冻奇侠,https://vip.lz-cdn1.com/20220404/926_f1e31dd0/1200k/hls/mixed.m3u8#https://ukzy.ukubf3.com/20220402/nP4K5xUH/2000kb/hls/index.m3u8					
 
 电影频道,#genre#
-CHC动作电影,http://8.218.49.207:9999/小果.php?id=wqCHCdzdyH265_4000&Cf.m3u8
-CHC高清电影,http://8.218.49.207:9999/小果.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
-CHC家庭影院,http://8.218.49.207:9999/小果.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
-龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 HBO,http://208.115.225.174:14165
 HBO 2,http://208.115.225.174:14140
 HBO Mundi,http://208.115.225.174:14148
@@ -1388,51 +1372,16 @@ HBO signature,http://208.115.225.174:14160
 WB TV,http://208.115.225.174:14132
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 
-星卫电影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8
-纬来电影,http://gwtv.cnv8.tv:8097/videolandmovie/playlist.m3u8
-三立戏剧,http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8
-美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8
-龙祥时代,http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8
-龙华洋片,http://gwtv.cnv8.tv:8097/lunghuawestern_twn/playlist.m3u8
-龙华戏剧,http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8
-好莱坞电影,http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8
-东森洋片,http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
-东森电影,http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8
-八大综合,http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8
-八大戏剧,http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8
-八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
-八大第一,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-八大綜合HD,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-八大第一,http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8
-爱尔达影剧,http://gwtv.cnv8.tv:8097/eltadrama_twn/playlist.m3u8
-HBO原创巨献,http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8
-HBO温馨家庭,http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8
-HBO强档巨献,http://gwtv.cnv8.tv:8097/hbohead_twn/playlist.m3u8
-HBO,http://gwtv.cnv8.tv:8097/hbohd_twn/playlist.m3u8
-EYETV戏剧,http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8
-CINEMAX,http://gwtv.cnv8.tv:8097/cinemax_twn/playlist.m3u8
-AXN,http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8
-
 
 湾频道,#genre#
-凤凰中文,http://8.218.49.207:9999/小果.php?id=test1_4000&Cf.m3u8
-凤凰资讯,http://8.218.49.207:9999/小果.php?id=test2_4000&Cf.m3u8
-探索頻道,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 探索頻道,http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 探索亞洲,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 探索亞洲,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
-衛視中文,http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
-
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
-中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
-星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
-星卫电影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-星卫电影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MFFF1537152715371527&ct=19613&tsum=c72d2af8bc7f5117d201170ce6994647
+龙华电影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MFFF1537152715371527&ct=19613&tsum=c72d2af8bc7f5117d201170ce6994647
 纬来电影,http://198.16.100.90:8278/videolandmovie/playlist.m3u8?tid=MBCB4045365240453652&ct=19613&tsum=1305867fd94535b1205c82cd88334522
 天映频道,http://198.16.100.90:8278/Celestial/playlist.m3u8?tid=MA6A9539925595399255&ct=19613&tsum=3306920a824b806ca5a42fa9b79a93f1
-美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 龍華偶像,http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
 龙华洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 龙华戏剧,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
@@ -1440,9 +1389,6 @@ AXN,http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8
 龙华戏剧,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
 龙华戏剧,http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
 龙华偶像,http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=MB3B9268047492680474&ct=19234&tsum=792a8d573313f22d3bd8670148df20cb
-靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
-靖天卡通,http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-东森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 东森洋片,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
 东森戏剧,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
@@ -1460,7 +1406,6 @@ AXN,http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8
 爱尔达体育2,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 ELTA影劇,http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
 TVBS News,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-TVBS·欢乐台,rtmp://twcdn.top/sat/tv421中视,rtmp://9sv2.mine.nu/sat/tv091
 台视,rtmp://9sv2.mine.nu/sat/tv071
 民视,rtmp://9sv2.mine.nu/sat/tv051
 华视,rtmp://9sv2.mine.nu/sat/tv111
@@ -1488,7 +1433,7 @@ ELEVEN2,rtmp://9sv2.mine.nu/sat/tv741
 博斯网球,rtmp://9sv2.mine.nu/sat/md011
 博斯运动I,rtmp://9sv2.mine.nu/sat/md021
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-辽ESPN,http://51.83.238.223:16515/
+ESPN,http://51.83.238.223:16515/
 NBA,http://146.59.80.96:10120/play/a009
 WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
@@ -1530,26 +1475,11 @@ ESPN 2,http://181.204.21.164:8000/play/a09i/index.m3u8
 ESPN 2 Latin,http://181.204.21.164:8000/play/a09j/index.m3u8
 
 韩国,#genre#
-LifeUhttp://1.236.14.10:9981/stream/channelid/47?ticket=
-올리브http://1.236.14.10:9981/stream/channelid/48?ticket=
-FOX,http://222.98.109.224:9981/stream/channelid/31?ticket=6DAE034785AA1B91B0EFE10F7C5C2226C6F4DAD0
-코미디TV,http://222.98.109.224:9981/stream/channelid/32?ticket=BA5FA935FB1DAB2F598F3CA495A83F3892098F9B
 综艺,http://14.49.86.138:9981/stream/channelid/553838573?ticket=A205A77A19E3E6AE539F7FBCD634F014832075DA&profile=pass
 CJ오쇼핑 플러스,http://14.49.86.138:9981/stream/channelid/958661849?ticket=899E986687EBB48C4224704EB95AB2D16AD66FA4&profile=pass
-AXN,http://121.160.86.119:9981/stream/channelid/81?ticket=FD318C886693A2DBCE816F68CE42A46AD8C6B07A
-Mplex,http://121.160.86.119:9981/stream/channelid/21?ticket=AB42AA1C7D0F070F7B2AB7F9A5EF500770855C9F
-TRENDY,http://121.160.86.119:9981/stream/channelid/80?ticket=0929C8AE9AF508AE7A6D13985140AD682019D202
-TV조선,http://121.160.86.119:9981/stream/channelid/41?ticket=94837900DBC4EC43A00CC6BCFF159566802B7BF6
-씨네프,http://121.160.86.119:9981/stream/channelid/60?ticket=E3EF05E242C78E3C8336A14626E9F59AEE2AA25B
-채널S,http://121.160.86.119:9981/stream/channelid/10?ticket=791BFF250B431F1C0CAAB0D193916E246DF068A8
-채널S동네방네,http://121.160.86.119:9981/stream/channelid/11?ticket=9251BF1940E99C7411118EE3FE4B9889BEDD0C64
-채널뷰,http://121.160.86.119:9981/stream/channelid/51?ticket=E647644EF947FB6AAE956C94A24FEFBC7C67ECCB
-채널차이나,http://121.160.86.119:9981/stream/channelid/53?ticket=9A5DFD9B88BAEECB2F821AF87361F147A2AF5AF6
-패션앤,http://121.160.86.119:9981/stream/channelid/92?ticket=BBD00361A05B47A47AD94373708D0799887ABF18
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
-KBS News D,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS2,http://183.99.22.189:9981/stream/channelid/806525648?ticket=89FC36A507B8BF3BEE410174A9F90617BB018964&profile=pass
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
@@ -2340,50 +2270,6 @@ myTV San Antonio TX (KCWX-TV) (720p),http://65.36.6.216:1935/live/kcwx.smil/play
 🅱️银魔暴行,https://v5.jindangao.com/oo/o10/18/hls/index.m3u8
 🅱️山狗1999,https://v5.jindangao.com/gg/g6/42/hls/index.m3u8
 
-抖音风_1234,#genre#
-抖音风合集,https://poisonous.4dddk1t90y1y.xyz/20230104/685655/hls/XA0E0H35320172661940/index.m3u8?sign=1700724029-BbSpzLfYb2XsA85yGDUR-0-4e0cd9954d055f8831f52281b9ca9fd2
-萝莉弹力摇,https://poisonous.4dddk1t90y1y.xyz/20230508/1237386/hls/XE0I0E0Y0Y0117976558/index.m3u8?sign=1700710780-pTxJ9fERNMkG2z3neopB-0-f7c99ed127e60f2afbaabfb8dcf3de0d
-反差婊铁蛋萝莉假屌,https://poisonous.4dddk1t90y1y.xyz/20231008/1919686/hls/XG0I0C46410358970315/index.m3u8?sign=1700705596-oQdIidBXPUw3cbaRktoz-0-52843d940bf8b8421e5d7f1d7b09ab84
-弹力摇合集,https://poisonous.4dddk1t90y1y.xyz/20230506/1229532/hls/XE0G0R0S0O0186359926/index.m3u8?sign=1700707036-01Nuq5DriKESNuzk8d4y-0-d57cf3fba6fddff116af171e451e2344
-弹力摇合集,https://poisonous.4dddk1t90y1y.xyz/20230828/1730409/hls/XH280W0X0H0401822730/index.m3u8?sign=1700705884-575FjvQR2Udr4VzVoWtQ-0-0478a34f989542215f9e05cc3f0e6cae
-弹力摇合集,https://poisonous.4dddk1t90y1y.xyz/20230214/857106/hls/XB0O0H300W0770278845/index.m3u8?sign=1700709340-F1dI0nAHcdUN7lLNuOYz-0-f41ca110c25fc6e915ce487ba2da875f
-弹力摇合集,https://poisonous.4dddk1t90y1y.xyz/20230827/1725405/hls/XH270X0A360461179042/index.m3u8?sign=1700706172-TY3d6PgFhsiZ9gf7u9nq-0-6bc539810361f2fcf32f74fcc433f05e
-巨乳弹力摇,https://poisonous.4dddk1t90y1y.xyz/20230126/780406/hls/XA260D55420513778195/index.m3u8?sign=1700709916-ewzCZremKh1odHxoLeWD-0-c4bbb1a563a83e059a645cdb8831c645
-巨乳弹力摇,https://poisonous.4dddk1t90y1y.xyz/20230808/1639924/hls/XH0I0O36510665534208/index.m3u8?sign=1700709916-ewzCZremKh1odHxoLeWD-0-3d07f9f827fb0e828d569ae73a4338d2
-抖音风弹力摇,https://poisonous.4dddk1t90y1y.xyz/20230803/1619049/hls/XH0D0M0W510044806413/index.m3u8?sign=1700707612-Dqpar24lPGhugvFyuuyT-0-5f33c364f2ff1e36afefe8c9e2f5e18b
-抖音风弹力摇,https://poisonous.4dddk1t90y1y.xyz/20230927/1865958/hls/XI270L54590713799271/index.m3u8?sign=1700710780-pTxJ9fERNMkG2z3neopB-0-34a10847007f90ce8af980b895b5a9a2
-抖音风弹力摇,https://poisonous.4dddk1t90y1y.xyz/20221223/584982/hls/WL0X0G470D0333041228/index.m3u8?sign=1700706172-TY3d6PgFhsiZ9gf7u9nq-0-e110bd7e59bbe3a59a2790d825ee7b3b
-抖音风弹力摇,https://poisonous.4dddk1t90y1y.xyz/20221228/596305/hls/WL280G39540687507153/index.m3u8?sign=1700706460-E9wdvHQ3yBNDkzrnXJHk-0-f1f50b00f82f0f03f2b7e8667ba53a64
-抖音风弹力摇,https://poisonous.4dddk1t90y1y.xyz/20221229/602307/hls/WL290K490R0703285646/index.m3u8?sign=1700706460-E9wdvHQ3yBNDkzrnXJHk-0-eab134060b9cf9c4cd498d7c69db5a8e
-双马尾弹力摇,https://poisonous.4dddk1t90y1y.xyz/20230509/1243828/hls/XE0G0U0C0A0697545012/index.m3u8?sign=1700706748-joSV2wr4Tau54FZruWyy-0-cb5e0bff9332e16aa86a8f3917852c8a
-双马尾弹力摇,https://poisonous.4dddk1t90y1y.xyz/20230208/832455/hls/XB0I0S52310523150748/index.m3u8?sign=1700706748-joSV2wr4Tau54FZruWyy-0-2c42b7b0a156aba754bce984b1efb88e
-少女卡点弹力,https://poisonous.4dddk1t90y1y.xyz/20230611/1422401/hls/XF0L0P0Z0R0492611520/index.m3u8?sign=1700707036-01Nuq5DriKESNuzk8d4y-0-e67f6182b2ceda731a2b57dad92ac6e8
-抖音弹力摇【苏小柠】版,https://poisonous.4dddk1t90y1y.xyz/20230819/1682796/hls/XH0T0D30270754758284/index.m3u8?sign=1700707036-01Nuq5DriKESNuzk8d4y-0-d3bb30a074a0d6f65d34bf8498490f71
-推特〖dggop〗抖音风/弹力,https://poisonous.4dddk1t90y1y.xyz/20230828/1728010/hls/XH280M380M0582020768/index.m3u8?sign=1700707324-jX7b0D3h4lCotKyY4Uy5-0-504790f395af56f1d761862cba02f877
-跳皮筋,https://poisonous.4dddk1t90y1y.xyz/20230526/1334968/hls/XE260Q3648000B818568/index.m3u8?sign=1700707324-jX7b0D3h4lCotKyY4Uy5-0-595268a305694b630c6962f248e1e590
-萝莉少女弹力摇,https://poisonous.4dddk1t90y1y.xyz/20230819/1682634/hls/XH0T0C490P0453169030/index.m3u8?sign=1700707324-jX7b0D3h4lCotKyY4Uy5-0-04f89cf928f8f43eb0726192054d61d7
-反差弹力摇,https://poisonous.4dddk1t90y1y.xyz/20230701/1503645/hls/XG0B0P31320613119358/index.m3u8?sign=1700708188-RXJJCig5XpzX1eylEF8c-0-a53acfa45b2c8382ebf746a7eca3bcc7
-弹力摇喷水,https://poisonous.4dddk1t90y1y.xyz/20231006/1911421/hls/XG0G0W320T0307800321/index.m3u8?sign=1700708764-73ZWQ2uU04WDptBck0Yw-0-2c5f72b05d028611c86d80ea7e91e622
-魔力弹力摇,https://poisonous.4dddk1t90y1y.xyz/20230612/1427127/hls/XF0M0E0T310971956531/index.m3u8?sign=1700708764-73ZWQ2uU04WDptBck0Yw-0-6a06370aa7e2d77b05d5f53f63de6257
-抖奶,https://poisonous.4dddk1t90y1y.xyz/20230801/1612053/hls/XH0B0M51530124487646/index.m3u8?sign=1700709340-F1dI0nAHcdUN7lLNuOYz-0-aa79e805c02899addc3158a494932fb4
-水产品合集,https://poisonous.4dddk1t90y1y.xyz/20231105/2038999/hls/XK0F0G0H0K0930529236/index.m3u8?sign=1700711356-v9eohkDgLN1iYKiGgxUC-0-84a9acdd718f0b00fe87bb92d4ae0a06
-抖音风裸舞,https://poisonous.4dddk1t90y1y.xyz/20231016/1957549/hls/XG0Q0P44280830637942/index.m3u8?sign=1700711933-mxyH2bRzlazIohRgG1t7-0-f26d38a349b6fc9bb1dcd05648b54643
-抖音风裸舞,https://poisonous.4dddk1t90y1y.xyz/20231013/1943643/hls/XG0N0S0P0H0765709672/index.m3u8?sign=1700712221-B93YAmtzCnBF6cMAA9To-0-379352fe1a135aa68fb31dfe0d793c6c
-抖音风裸舞,https://poisonous.4dddk1t90y1y.xyz/20231013/1943633/hls/XG0N0T4826000Y994785/index.m3u8?sign=1700712221-B93YAmtzCnBF6cMAA9To-0-ffef940caebe8687c326e1c5c2759003
-抖音风裸舞,https://poisonous.4dddk1t90y1y.xyz/20230607/1399501/hls/XF0H0O0P360467993833/index.m3u8?sign=1700712221-B93YAmtzCnBF6cMAA9To-0-02a11a24a733cf4682c6d8ed7aa8a3aa
-抖音风裸舞,https://poisonous.4dddk1t90y1y.xyz/20230603/1378172/hls/XF0D0S380U0085558635/index.m3u8?sign=1700712509-Ok7u4mOa5j3Qdnv2HAWG-0-96b7852eba7c57f88a85af74ac3b3c59
-抖音鱼神合集,https://poisonous.4dddk1t90y1y.xyz/20230703/1510790/hls/XG0D0O0A0O0248526327/index.m3u8?sign=1700723165-uyioSYPAfnQ6H0uYqeTa-0-1f59b24610003bc2c0e2065d7612b4d1
-抖音风反差,https://poisonous.4dddk1t90y1y.xyz/20230626/1485446/hls/XF260U370O0327114734/index.m3u8?sign=1700723453-u0hngNBisbTVOwqWzBnU-0-9fd08881939addd75138dd79bfdf8745
-推特福利姬,https://poisonous.4dddk1t90y1y.xyz/20230525/1329258/hls/XE0Z0T270U0284385803/index.m3u8?sign=1700723453-u0hngNBisbTVOwqWzBnU-0-6ae25cb61682688ef590c3cf6689f9aa
-微博 多肉小猫,https://poisonous.4dddk1t90y1y.xyz/20230525/1329293/hls/XE0Z0U0D0U0610471513/index.m3u8?sign=1700723453-u0hngNBisbTVOwqWzBnU-0-a089af3ee431115a132487d90fe4d494
-抖音修女来了,https://poisonous.4dddk1t90y1y.xyz/20230329/1041677/hls/XC290U0E300757572387/index.m3u8?sign=1700723453-u0hngNBisbTVOwqWzBnU-0-06aec2d17bf5e4a5aa1f37ee6ae340cf
-抖音风短视频合集,https://poisonous.4dddk1t90y1y.xyz/20230517/1287188/hls/XE0R0W0L0U0859072672/index.m3u8?sign=1700723741-FGq06lgCuKcamH6UbqIn-0-98e1eb1c54730bdbd3b26aefcaaacd9d
-推特小云仙儿合集,https://poisonous.4dddk1t90y1y.xyz/20230508/1237551/hls/XE0I0F560Z0506454069/index.m3u8?sign=1700723741-FGq06lgCuKcamH6UbqIn-0-035c6bf913efdf9f68c76f1ae3cc14ee
-抖音风黑料,https://poisonous.4dddk1t90y1y.xyz/20230422/1158503/hls/XD0W0O58280654266180/index.m3u8?sign=1700723741-FGq06lgCuKcamH6UbqIn-0-bf9351a823c76139f49ed089ee5a3473
-光剑变装,https://poisonous.4dddk1t90y1y.xyz/20230520/1305717/hls/XE0U0R0V0K0850508755/index.m3u8?sign=1700724029-BbSpzLfYb2XsA85yGDUR-0-72bb1c2055acc8bc71f920f9245571f0
-抖奶舞,https://poisonous.4dddk1t90y1y.xyz/20231031/2019459/hls/XG310M0T510082547500/index.m3u8?sign=1700724317-nUJnPbVrUzyglgs4HibZ-0-4571506859a1f249ce01a050542b985e
-抖奶舞,https://poisonous.4dddk1t90y1y.xyz/20231012/1937084/hls/XG0M0I0Y420537217340/index.m3u8?sign=1700724317-nUJnPbVrUzyglgs4HibZ-0-58dfe75769e6704bbb07d02e4d118742
-弹力摇,https://anonshacker.com/tourl.php?q=aHR0cHM6Ly92aWRlby50d2ltZy5jb20vZXh0X3R3X3ZpZGVvLzE2Nzg3OTc3OTk2MjA3NTU0NTgvcHUvdmlkLzcxOHgxMjc4L3IxaV9ucmk4QVBHX1FlZWMubXA0P3RhZz0xMg.m3u8
 
 监控设备_1234,#genre#
 mycamtv 2409,https://vod.mycamtv.net/2409.m3u8
