@@ -31,7 +31,7 @@ CCTV16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 
 
 
-卫视频道#genre#
+卫视频道,#genre#
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
@@ -163,17 +163,7 @@ iptv,#genre#
 快乐垂钓,http://218.241.192.50:8808/udp/239.3.1.164:8001
 
 
-付费频道,#genre#
-风云音乐,http://qhjx.top:18000/udp/238.255.2.24:5999
-第一剧场,http://qhjx.top:18000/udp/238.255.2.25:5999
-世界地理,http://qhjx.top:18000/udp/238.255.2.26:5999
-女性时尚,http://qhjx.top:18000/udp/238.255.2.27:5999
-风云剧场,http://qhjx.top:18000/udp/238.255.2.28:5999
-风云足球,http://qhjx.top:18000/udp/238.255.2.29:5999
-央视文化精品,http://qhjx.top:18000/udp/238.255.2.32:5999
-怀旧剧场,http://qhjx.top:18000/udp/238.255.2.33:5999
-兵器科技,http://qhjx.top:18000/udp/238.255.2.34:5999
-老故事,http://qhjx.top:18000/udp/238.255.2.35:5999
+电影频道,#genre#
 CHC动作电影,http://58.19.13.92:9901/tsfile/live/1037_1.m3u8
 CHC高清电影,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8
 CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
@@ -182,6 +172,13 @@ CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 CETV-1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
+HBO,http://208.115.225.174:14165
+HBO 2,http://208.115.225.174:14140
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+WB TV,http://208.115.225.174:14132
+HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+
 
 
 
@@ -1039,114 +1036,13 @@ ihot V6,#genre#
 爱娱乐,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000044/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000044&livemode=1&stbId=3
 爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-SITV,#genre#
-全纪实,http://lzoq.hk3.20212021.cf/daili/?id=qjshd8m/8000000
-生活时尚,http://lzoq.hk3.20212021.cf/daili/?id=shss8m/8000000
-新视觉,http://lzoq.hk3.20212021.cf/daili/?id=xsjhd8m/8000000
-游戏风云,http://lzoq.hk3.20212021.cf/daili/?id=yxfy8m/8000000
-热门综艺,http://lzoq.hk3.20212021.cf/daili/?id=rmzy8m/8000000
-健康养生,http://lzoq.hk3.20212021.cf/daili/?id=jkys8m/8000000
-百变课堂,http://lzoq.hk3.20212021.cf/daili/?id=bbkt8m/8000000
-看天下精选,http://lzoq.hk3.20212021.cf/daili/?id=ktxjx8m/8000000
-华语影院,http://lzoq.hk3.20212021.cf/daili/?id=hyyy8m/8000000
-电竞天堂,http://lzoq.hk3.20212021.cf/daili/?id=djtt8m/8000000
-青春动漫,http://lzoq.hk3.20212021.cf/daili/?id=qcdm8m/8000000
-宝宝动画,http://lzoq.hk3.20212021.cf/daili/?id=bbdh8m/8000000
-星光影院,http://lzoq.hk3.20212021.cf/daili/?id=xgyy8m/8000000
-谍战剧场,http://lzoq.hk3.20212021.cf/daili/?id=dzjc8m/8000000
-全球大片,http://lzoq.hk3.20212021.cf/daili/?id=qqdp8m/8000000
-热门剧场,http://lzoq.hk3.20212021.cf/daili/?id=rmjc8m/8000000
-中国教育-1,http://lzoq.hk3.20212021.cf/daili/?id=zgjy1t8m/8000000
-中国教育-4,http://lzoq.hk3.20212021.cf/daili/?id=zgjy4hd8m/8000000
-卡酷少儿,http://lzoq.hk3.20212021.cf/daili/?id=kkse8m/8000000
-纪实科教,http://lzoq.hk3.20212021.cf/daili/?id=dajs8m/8000000
-茶频道,http://lzoq.hk3.20212021.cf/daili/?id=cpdhdavs8m/8000000
-炫动卡通,http://lzoq.hk3.20212021.cf/daili/?id=hhxd8m/8000000
-东方财经,http://lzoq.hk3.20212021.cf/daili/?id=dfcjhd8m/8000000
-都市剧场,http://lzoq.hk3.20212021.cf/daili/?id=dsjc8m/8000000
-动漫秀场,http://lzoq.hk3.20212021.cf/daili/?id=dmxc8m/8000000
-法治天地,http://lzoq.hk3.20212021.cf/daili/?id=fztd8m/8000000
-魅力足球,http://lzoq.hk3.20212021.cf/daili/?id=mlyyhd8m/8000000
-超级体育,http://lzoq.hk3.20212021.cf/daili/?id=qcsj8m/8000000
-陶瓷高清,http://lzoq.hk3.20212021.cf/daili/?id=taocihd/8000000
-足球高清,http://lzoq.hk3.20212021.cf/daili/?id=zqpd8m/8000000
-
-百视频道,#genre#
-百视电影1,https://bp-caster.bestv.com.cn/88/3/video.m3u8
-百视电影2,https://bp-caster.bestv.com.cn/89/3/video.m3u8
-百视电影3,https://bp-caster.bestv.com.cn/91/3/video.m3u8
-百视电影4,https://bp-caster.bestv.com.cn/92/3/video.m3u8
-百视电影5,https://bp-caster.bestv.com.cn/93/3/video.m3u8
-百视电影6,https://bp-caster.bestv.com.cn/94/3/video.m3u8
-百视电影7,https://bp-caster.bestv.com.cn/95/3/video.m3u8
-百视电影8,https://bp-caster.bestv.com.cn/96/3/video.m3u8
-百视电影9,https://bp-caster.bestv.com.cn/97/3/video.m3u8
-百视电影10,https://bp-caster.bestv.com.cn/98/3/video.m3u8
-百视电影11,https://bp-caster.bestv.com.cn/99/3/video.m3u8
-百视电影12,https://bp-caster.bestv.com.cn/100/3/video.m3u8
-百视电影13,https://bp-caster.bestv.com.cn/101/3/video.m3u8
-百视电影14,https://bp-caster.bestv.com.cn/102/3/video.m3u8
-百视电影15,https://bp-caster.bestv.com.cn/103/3/video.m3u8
-百视电影16,https://bp-caster.bestv.com.cn/104/3/video.m3u8
-百视电影17,https://bp-caster.bestv.com.cn/105/3/video.m3u8
-百视电影18,https://bp-caster.bestv.com.cn/106/3/video.m3u8
-百视电影19,https://bp-caster.bestv.com.cn/107/3/video.m3u8
-百视电影20,https://bp-caster.bestv.com.cn/108/3/video.m3u8
-百视电影21,https://bp-caster.bestv.com.cn/109/3/video.m3u8
-百视电影22,https://bp-caster.bestv.com.cn/110/3/video.m3u8
-百视电影23,https://bp-caster.bestv.com.cn/111/3/video.m3u8
-百视电影24,https://bp-caster.bestv.com.cn/112/3/video.m3u8
-百视电影25,https://bp-caster.bestv.com.cn/113/3/video.m3u8
-百视电影26,https://bp-caster.bestv.com.cn/114/3/video.m3u8
-百视电影27,https://bp-caster.bestv.com.cn/115/3/video.m3u8
-百视电影28,https://bp-caster.bestv.com.cn/116/3/video.m3u8
-百视电影29,https://bp-caster.bestv.com.cn/117/3/video.m3u8
-百视电影30,https://bp-caster.bestv.com.cn/118/3/video.m3u8
-百视电影31,https://bp-caster.bestv.com.cn/119/3/video.m3u8
-百视电影32,https://bp-caster.bestv.com.cn/120/3/video.m3u8
-百视电影33,https://bp-caster.bestv.com.cn/121/3/video.m3u8
-百视电影34,https://bp-caster.bestv.com.cn/122/3/video.m3u8
-百视电影35,https://bp-caster.bestv.com.cn/123/3/video.m3u8
-百视电影36,https://bp-caster.bestv.com.cn/124/3/video.m3u8
-百视电影37,https://bp-caster.bestv.com.cn/125/3/video.m3u8
-百视电影38,https://bp-caster.bestv.com.cn/126/3/video.m3u8
-百视电影40,https://bp-caster.bestv.com.cn/128/3/video.m3u8
-百视电影41,https://bp-caster.bestv.com.cn/129/3/video.m3u8
-百视电影42,https://bp-caster.bestv.com.cn/130/3/video.m3u8
-百视电影43,https://bp-caster.bestv.com.cn/131/3/video.m3u8
-百视电影44,https://bp-caster.bestv.com.cn/132/3/video.m3u8
 
 
 
 
-虎牙频道,#genre#
-林正英,http://43.138.170.29:35455/huya/11342421
-沈腾,http://43.138.170.29:35455/huya/11601968
-猫和老鼠,http://43.138.170.29:35455/huya/11352879
-成龙,http://43.138.170.29:35455/huya/11342386
-李连杰,http://43.138.170.29:35455/huya/11342390
-周润发,http://43.138.170.29:35455/huya/11342387
-徐峥,http://43.138.170.29:35455/huya/11602043
-许氏三杰,http://43.138.170.29:35455/huya/11602033
-黄渤,http://43.138.170.29:35455/huya/11352876
-张卫健,http://43.138.170.29:35455/huya/11342423
-冯小刚,http://43.138.170.29:35455/huya/11352906
-百鸟朝凤,http://43.138.170.29:35455/huya/15894162
-陈翔六点半,http://43.138.170.29:35455/huya/11274154
-救援电影,http://43.138.170.29:35455/huya/21059586
-科幻电影,http://43.138.170.29:35455/huya/11602034
-黄百鸣,http://43.138.170.29:35455/huya/11601971
-电影78,http://43.138.170.29:35455/huya/11342414
-天龙八部,http://43.138.170.29:35455/huya/11602041
-歪果仁动作,http://43.138.170.29:35455/huya/21059552
-文成公主,http://43.138.170.29:35455/huya/11352974
-喜剧合家欢,http://43.138.170.29:35455/huya/11352877
-小鲤鱼,http://43.138.170.29:35455/huya/11601961
-悬疑推理,http://43.138.170.29:35455/huya/17445539
-杨门女将,http://43.138.170.29:35455/huya/11336590
-医馆笑传,http://43.138.170.29:35455/huya/11352891
-止戈电影,http://43.138.170.29:35455/huya/19863777
-中国功夫,http://43.138.170.29:35455/huya/11352941
+
+
+
 
 斗鱼频道,#genre#
 粤语综艺,http://epg.112114.xyz/douyu/7919720
@@ -1271,8 +1167,7 @@ SITV,#genre#
 香港8K[ipv6],http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 TVP2 HD,http://178.219.128.68:64889/TVP2HD
 TVP1 HD,http://178.219.128.68:64889/TVP1HD
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://146.56.153.245:8006/bysid/1
+
 ViuTVsix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
@@ -1318,31 +1213,6 @@ M6,http://livetv.ktv.zone/8/play.m3u8
 ART,http://livetv.ktv.zone/9/play.m3u8
 C8影剧,http://livetv.ktv.zone/10/play.m3u8
 
-明星剧场,#genre#
-电影_星爷,https://live.metshop.top/huya/11342412
-电影_英叔,https://live.metshop.top/huya/11342421
-电影_发哥,https://live.metshop.top/huya/11342387
-电影_成龙,https://live.metshop.top/huya/11342386
-电影_王晶,https://live.metshop.top/huya/11602058
-电影_沈腾,https://live.metshop.top/huya/11601968
-电影_强森,https://live.metshop.top/huya/21059581
-电影_漫威,https://live.metshop.top/huya/11602034
-电影_宇宙,https://live.metshop.top/huya/11342428
-电影_怪兽,https://live.metshop.top/huya/21059577
-电影_武侠,https://live.metshop.top/huya/11342427
-电影_赛车,https://live.metshop.top/huya/11279247
-电影_推荐,https://live.metshop.top/huya/11602041
-电影_贺岁,https://live.metshop.top/huya/11601971
-电影_喜剧,https://live.metshop.top/huya/11352877
-电影_港片,https://live.metshop.top/huya/11602043
-电影_周星星,https://live.metshop.top/huya/11336587
-电影_李连杰,https://live.metshop.top/huya/11342390
-电影_洪金宝,https://live.metshop.top/huya/11279251
-电影_梁家辉,https://live.metshop.top/huya/11342429
-电影_许冠英,https://live.metshop.top/huya/11601972
-电影_刘德华,https://live.metshop.top/huya/11342424
-电影_斯坦森,https://live.metshop.top/huya/21059588
-电影_小鬼头,https://live.metshop.top/huya/11352963
 
  录像厅,#genre#
 平津战役,https://vip.lz-cdn1.com/20220518/6085_3a77d916/1200k/hls/mixed.m3u8#https://cdn8.vipbf-video.com/20220913/19459_0f0af818/1000k/hls/index.m3u8											
@@ -1420,13 +1290,7 @@ C8影剧,http://livetv.ktv.zone/10/play.m3u8
 [韩]毒战2,https://v.cdnlz4.com/20231117/26156_c60ebe89/2000k/hls/mixed.m3u8#https://v.cdnlz4.com/20231117/26156_c60ebe89/index.m3u8#https://yzzy.play-cdn20.com/20231117/5376_401ac72a/2000k/hls/index.m3u8#https://yzzy.play-cdn20.com/20231117/5376_401ac72a/index.m3u8
 黄金七令之罗刹风云,https://dghls.mcloud.139.com/hls/LR1bdcfc4ad88eb9f4e79aef310d9bcc6d/single/video/0/376/index.m3u8#https://v.cdnlz11.com/20231115/18327_c75a359f/2000k/hls/mixed.m3u8#https://v.cdnlz11.com/20231115/18327_c75a359f/index.m3u8#https://yzzy.play-cdn20.com/20231115/5218_93b748ea/2000k/hls/index.m3u8#https://yzzy.play-cdn20.com/20231115/5218_93b748ea/index.m3u8
 
-电影频道,#genre#
-HBO,http://208.115.225.174:14165
-HBO 2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-WB TV,http://208.115.225.174:14132
-HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+
 
 
 湾频道,#genre#
@@ -1474,53 +1338,12 @@ TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 
 
 体育频道,#genre#
-纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
-纬来体育,rtmp://9sv2.mine.nu/sat/tv721
-MOMO综合,rtmp://9sv2.mine.nu/sat/tv761
-ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/md011
-ELTA体育1,rtmp://9sv2.mine.nu:1935/sat/md031
-ELTA体育2,rtmp://9sv2.mine.nu/sat/md041
-ELTA体育3,rtmp://9sv2.mine.nu:1935/sat/md051
-ELTA体育4,rtmp://9sv2.mine.nu:1935/sat/md041
-ELTA体育4,rtmp://9sv2.mine.nu:1935/sat/md051
-纬来日本,rtmp://9sv2.mine.nu/sat/tv771
-ELEVEN1,rtmp://9sv2.mine.nu/sat/tv731
-ELEVEN2,rtmp://9sv2.mine.nu/sat/tv741
-博斯网球,rtmp://9sv2.mine.nu/sat/md011
-博斯运动I,rtmp://9sv2.mine.nu/sat/md021
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 ESPN,http://51.83.238.223:16515/
-NBA,http://146.59.80.96:10120/play/a009
 WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 NBA,mitv://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 ESPN,mitv://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
 红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?宁-体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-Star Sports 1 HD 1,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2186.ts
-Star Sports 1 HD 2,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2232.ts
-Star Sports 1 HD 3,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2456.ts
-Star Sports 2 HD 1,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1069.ts
-Star Sports 2 HD 2,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2163.ts
-Star Sports Select 1 HD 1,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1070.ts
-Star Sports Select 1 HD 2,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2292.ts
-Star Sports Select 2 HD,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1071.ts
-Sky Sports Cricket 1,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2090.ts
-Sky Sports Cricket 2,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2143.ts
-Sky Sports Main Event,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2091.ts
-Sky Sports Premier League,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2092.ts
-Sky Sports Football,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2093.ts
-Sky Sports F1,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2094.ts
-Sky Sports Arena,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2095.ts
-Sky Sports Golf,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2096.ts
-Sony Ten 1 HD 1,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1756.ts
-Sony Ten 1 HD 2,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2215.ts
-Sony Ten 2 HD,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1757.ts
-Sony Ten 3 HD,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1758.ts
-Sports 18 HD,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2423.ts
-Fox Sports 1,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2421.ts
-DD Sports,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2380.ts
-Willow HD 1,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1067.ts
-Willow HD 2,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2145.ts
-Astro Cricket,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2174.ts
 ESPN 4 4K,http://7go.xyz:8080/yhr62q5i/g4yalvy7/275370
 ESPN 4,http://208.115.225.174:14510
 ESPN Vivo,http://208.115.225.174:14754
