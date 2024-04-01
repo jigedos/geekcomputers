@@ -789,8 +789,8 @@ J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum
 中视,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=zhongshitwn
 华视,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ctstwn
 公视,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ctvtaiwan
-视综合,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ttvzhonghe
-民视湾,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ftvtaiwantwn
+台视综合,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ttvzhonghe
+民视台湾,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ftvtaiwantwn
 三立综合,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=sanlizhonghe
 三立湾,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=sanlitaiwan
 三立都会,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=sanlidouhuitwn
@@ -817,7 +817,7 @@ TVBS,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=tvbs
 TVBS新闻,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=tvbsn
 TVBS欢乐,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=tvbshuanletwn
 中天新闻,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ctinews
-视新闻,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ttvnewstwn
+台视新闻,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ttvnewstwn
 中视新闻,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=zhongshinewstwn
 民视新闻,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ftvnewtaiwan
 东森新闻,http://61.158.166.42:1301/haiou.php?key=haiousmt&id=ettvnews
